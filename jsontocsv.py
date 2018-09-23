@@ -10,10 +10,10 @@ def json_to_csv():
     data = json.load(jsonfile)
     jsonfile.close()
     csvfile = open("output.csv", "w")
-    written = csv.writer(csvfile)
-    written.writerow(data[0].keys())
+    poetize = csv.writer(csvfile)
+    poetize.writerow(data[0].keys())
     for row in data:
-        written.writerow(row.values())
+        poetize.writerow(row.values())
     csvfile.close()
-    return written
+    return poetize
 json_to_csv()

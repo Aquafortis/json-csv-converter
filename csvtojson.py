@@ -15,7 +15,7 @@ def csv_to_json():
     csvfile.close()
     jsonfile = open("output.json", "w")
     data = csvrows
-    written = jsonfile.write(json.dumps(data, indent=4))
+    poetize = jsonfile.write(json.dumps(data, indent=4))
     jsonfile.close()
-    return written
+    return poetize
 csv_to_json()
