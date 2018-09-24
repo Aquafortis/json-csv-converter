@@ -8,8 +8,6 @@ Paste the `json` you want to convert into the `input.json` file.
 
 Read results in `output.csv` file.
 
-or
-
 Paste the `csv` you want to convert into the `input.csv` file.
 
 Read results in `output.json` file.
@@ -20,13 +18,24 @@ Read results in `output.json` file.
 
 `$ python3 jsontocsv.py`
 
-or
-
 `$ python3 csvtojson.py`
+
+**Drag and Drop Version:**
+
+You'll find a standalone version in the `JsonCsv` folder.
+
+This script can be run in situ or from any directory simply by copying the `convert.py` file to that directory, i.e., your Desktop.
+
+* This script only works with `python 3x`
+* Script uses user inputs with instructions
+* Output files are generated in same directory
+* Use `ctrl` + `C` or `ctrl` + `D` etc. to exit
+
+Don't forget to save or rename the output file if you want to keep it.
 
 **Limitations:**
 
-This will only convert single layer `json` arrays.
+These will only convert single layer `json` arrays.
 
 ***
 

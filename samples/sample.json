@@ -1,0 +1,2882 @@
+[
+    {
+        "Currency Pair": "BTC/EUR",
+        "Last Trade": "5663",
+        "24 hours ago": "5658.6",
+        "24 hour change": "4.4000 0.08% ",
+        "7 days ago": "5658.6",
+        "7 day change": "4.4000 0.08% ",
+        "30 days ago": "5658.6",
+        "30 day change": "4.4000 0.08% "
+    },
+    {
+        "Currency Pair": "BTC/JPY",
+        "Last Trade": "747050",
+        "24 hours ago": "746470",
+        "24 hour change": "580.00 0.08% ",
+        "7 days ago": "746470",
+        "7 day change": "580.00 0.08% ",
+        "30 days ago": "746470",
+        "30 day change": "580.00 0.08% "
+    },
+    {
+        "Currency Pair": "BTC/GBP",
+        "Last Trade": "5081.535724",
+        "24 hours ago": "5077.6",
+        "24 hour change": "3.9357 0.08% ",
+        "7 days ago": "5077.6",
+        "7 day change": "3.9357 0.08% ",
+        "30 days ago": "5077.6",
+        "30 day change": "3.9357 0.08% "
+    },
+    {
+        "Currency Pair": "BTC/USD",
+        "Last Trade": "6635",
+        "24 hours ago": "6635",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "6635",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "6635",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "ETH/EUR",
+        "Last Trade": "197.58",
+        "24 hours ago": "197.56",
+        "24 hour change": "0.020000 0.01% ",
+        "7 days ago": "197.56",
+        "7 day change": "0.020000 0.01% ",
+        "30 days ago": "197.56",
+        "30 day change": "0.020000 0.01% "
+    },
+    {
+        "Currency Pair": "ETH/JPY",
+        "Last Trade": "26199.98814",
+        "24 hours ago": "26064",
+        "24 hour change": "135.99 0.52% ",
+        "7 days ago": "26064",
+        "7 day change": "135.99 0.52% ",
+        "30 days ago": "26064",
+        "30 day change": "135.99 0.52% "
+    },
+    {
+        "Currency Pair": "ETH/GBP",
+        "Last Trade": "177.7515855",
+        "24 hours ago": "177.29",
+        "24 hour change": "0.46159 0.26% ",
+        "7 days ago": "177.29",
+        "7 day change": "0.46159 0.26% ",
+        "30 days ago": "177.29",
+        "30 day change": "0.46159 0.26% "
+    },
+    {
+        "Currency Pair": "ETH/USD",
+        "Last Trade": "231.65",
+        "24 hours ago": "231.67",
+        "24 hour change": "-0.0201",
+        "7 days ago": "231.67",
+        "7 day change": "-0.0201",
+        "30 days ago": "231.67",
+        "30 day change": "-0.0201"
+    },
+    {
+        "Currency Pair": "ETH/BTC",
+        "Last Trade": "0.034949",
+        "24 hours ago": "0.034941",
+        "24 hour change": "0.000008 0.02% ",
+        "7 days ago": "0.034941",
+        "7 day change": "0.000008 0.02% ",
+        "30 days ago": "0.034941",
+        "30 day change": "0.000008 0.02% "
+    },
+    {
+        "Currency Pair": "EOS/EUR",
+        "Last Trade": "4.9216",
+        "24 hours ago": "4.9175",
+        "24 hour change": "0.0041000 0.08% ",
+        "7 days ago": "4.9175",
+        "7 day change": "0.0041000 0.08% ",
+        "30 days ago": "4.9175",
+        "30 day change": "0.0041000 0.08% "
+    },
+    {
+        "Currency Pair": "EOS/JPY",
+        "Last Trade": "657.517404",
+        "24 hours ago": "648.7",
+        "24 hour change": "8.8174 1.36% ",
+        "7 days ago": "648.7",
+        "7 day change": "8.8174 1.36% ",
+        "30 days ago": "648.7",
+        "30 day change": "8.8174 1.36% "
+    },
+    {
+        "Currency Pair": "EOS/GBP",
+        "Last Trade": "4.419",
+        "24 hours ago": "4.413",
+        "24 hour change": "0.0060000 0.14% ",
+        "7 days ago": "4.413",
+        "7 day change": "0.0060000 0.14% ",
+        "30 days ago": "4.413",
+        "30 day change": "0.0060000 0.14% "
+    },
+    {
+        "Currency Pair": "EOS/USD",
+        "Last Trade": "5.7654",
+        "24 hours ago": "5.766",
+        "24 hour change": "-0.0007",
+        "7 days ago": "5.766",
+        "7 day change": "-0.0007",
+        "30 days ago": "5.766",
+        "30 day change": "-0.0007"
+    },
+    {
+        "Currency Pair": "EOS/BTC",
+        "Last Trade": "0.0008704",
+        "24 hours ago": "0.00086927",
+        "24 hour change": "0.000001 0.13% ",
+        "7 days ago": "0.00086927",
+        "7 day change": "0.000001 0.13% ",
+        "30 days ago": "0.00086927",
+        "30 day change": "0.000001 0.13% "
+    },
+    {
+        "Currency Pair": "EOS/ETH",
+        "Last Trade": "0.024835",
+        "24 hours ago": "0.02482",
+        "24 hour change": "0.000015 0.06% ",
+        "7 days ago": "0.02482",
+        "7 day change": "0.000015 0.06% ",
+        "30 days ago": "0.02482",
+        "30 day change": "0.000015 0.06% "
+    },
+    {
+        "Currency Pair": "LTC/USD",
+        "Last Trade": "58",
+        "24 hours ago": "58",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "58",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "58",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "LTC/BTC",
+        "Last Trade": "0.00875",
+        "24 hours ago": "0.00875",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.00875",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.00875",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "XRP/USD",
+        "Last Trade": "0.55638",
+        "24 hours ago": "0.55638",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.55638",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.55638",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "XRP/BTC",
+        "Last Trade": "0.00008415",
+        "24 hours ago": "0.000084",
+        "24 hour change": "0.000000 0.24% ",
+        "7 days ago": "0.000084",
+        "7 day change": "0.000000 0.24% ",
+        "30 days ago": "0.000084",
+        "30 day change": "0.000000 0.24% "
+    },
+    {
+        "Currency Pair": "BCH/USD",
+        "Last Trade": "469.64",
+        "24 hours ago": "469.64",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "469.64",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "469.64",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "BCH/BTC",
+        "Last Trade": "0.0708",
+        "24 hours ago": "0.070799",
+        "24 hour change": "0.000001 0.00% ",
+        "7 days ago": "0.070799",
+        "7 day change": "0.000001 0.00% ",
+        "30 days ago": "0.070799",
+        "30 day change": "0.000001 0.00% "
+    },
+    {
+        "Currency Pair": "BCH/ETH",
+        "Last Trade": "2.0193",
+        "24 hours ago": "2.0206",
+        "24 hour change": "-0.0019",
+        "7 days ago": "2.0206",
+        "7 day change": "-0.0019",
+        "30 days ago": "2.0206",
+        "30 day change": "-0.0019"
+    },
+    {
+        "Currency Pair": "IOTA/EUR",
+        "Last Trade": "0.45691309",
+        "24 hours ago": "0.45691",
+        "24 hour change": "0.000003 0.00% ",
+        "7 days ago": "0.45691",
+        "7 day change": "0.000003 0.00% ",
+        "30 days ago": "0.45691",
+        "30 day change": "0.000003 0.00% "
+    },
+    {
+        "Currency Pair": "IOTA/JPY",
+        "Last Trade": "60.27469427",
+        "24 hours ago": "60.274",
+        "24 hour change": "0.00069427 0.00% ",
+        "7 days ago": "60.274",
+        "7 day change": "0.00069427 0.00% ",
+        "30 days ago": "60.274",
+        "30 day change": "0.00069427 0.00% "
+    },
+    {
+        "Currency Pair": "IOTA/GBP",
+        "Last Trade": "0.41",
+        "24 hours ago": "0.40999",
+        "24 hour change": "0.000010 0.00% ",
+        "7 days ago": "0.40999",
+        "7 day change": "0.000010 0.00% ",
+        "30 days ago": "0.40999",
+        "30 day change": "0.000010 0.00% "
+    },
+    {
+        "Currency Pair": "IOTA/USD",
+        "Last Trade": "0.53575162",
+        "24 hours ago": "0.53575",
+        "24 hour change": "0.000002 0.00% ",
+        "7 days ago": "0.53575",
+        "7 day change": "0.000002 0.00% ",
+        "30 days ago": "0.53575",
+        "30 day change": "0.000002 0.00% "
+    },
+    {
+        "Currency Pair": "IOTA/BTC",
+        "Last Trade": "0.00008092",
+        "24 hours ago": "0.000081",
+        "24 hour change": "0.000000 0.40% ",
+        "7 days ago": "0.000081",
+        "7 day change": "0.000000 0.40% ",
+        "30 days ago": "0.000081",
+        "30 day change": "0.000000 0.40% "
+    },
+    {
+        "Currency Pair": "IOTA/ETH",
+        "Last Trade": "0.0023013",
+        "24 hours ago": "0.0023032",
+        "24 hour change": "-0.000802",
+        "7 days ago": "0.0023032",
+        "7 day change": "-0.000802",
+        "30 days ago": "0.0023032",
+        "30 day change": "-0.000802"
+    },
+    {
+        "Currency Pair": "NEO/EUR",
+        "Last Trade": "15.693",
+        "24 hours ago": "15.692",
+        "24 hour change": "0.0010000 0.01% ",
+        "7 days ago": "15.692",
+        "7 day change": "0.0010000 0.01% ",
+        "30 days ago": "15.692",
+        "30 day change": "0.0010000 0.01% "
+    },
+    {
+        "Currency Pair": "NEO/JPY",
+        "Last Trade": "2088.9",
+        "24 hours ago": "2075.1",
+        "24 hour change": "13.800 0.67% ",
+        "7 days ago": "2075.1",
+        "7 day change": "13.800 0.67% ",
+        "30 days ago": "2075.1",
+        "30 day change": "13.800 0.67% "
+    },
+    {
+        "Currency Pair": "NEO/GBP",
+        "Last Trade": "14.209",
+        "24 hours ago": "14.081",
+        "24 hour change": "0.12800 0.91% ",
+        "7 days ago": "14.081",
+        "7 day change": "0.12800 0.91% ",
+        "30 days ago": "14.081",
+        "30 day change": "0.12800 0.91% "
+    },
+    {
+        "Currency Pair": "NEO/USD",
+        "Last Trade": "18.401",
+        "24 hours ago": "18.445",
+        "24 hour change": "-0.0464",
+        "7 days ago": "18.445",
+        "7 day change": "-0.0464",
+        "30 days ago": "18.445",
+        "30 day change": "-0.0464"
+    },
+    {
+        "Currency Pair": "NEO/BTC",
+        "Last Trade": "0.0027847",
+        "24 hours ago": "0.0027842",
+        "24 hour change": "0.000000 0.02% ",
+        "7 days ago": "0.0027842",
+        "7 day change": "0.000000 0.02% ",
+        "30 days ago": "0.0027842",
+        "30 day change": "0.000000 0.02% "
+    },
+    {
+        "Currency Pair": "NEO/ETH",
+        "Last Trade": "0.07895",
+        "24 hours ago": "0.078959",
+        "24 hour change": "-0.000109",
+        "7 days ago": "0.078959",
+        "7 day change": "-0.000109",
+        "30 days ago": "0.078959",
+        "30 day change": "-0.000109"
+    },
+    {
+        "Currency Pair": "ETC/USD",
+        "Last Trade": "11.185",
+        "24 hours ago": "11.18",
+        "24 hour change": "0.0050000 0.04% ",
+        "7 days ago": "11.18",
+        "7 day change": "0.0050000 0.04% ",
+        "30 days ago": "11.18",
+        "30 day change": "0.0050000 0.04% "
+    },
+    {
+        "Currency Pair": "ETC/BTC",
+        "Last Trade": "0.0016874",
+        "24 hours ago": "0.0016873",
+        "24 hour change": "0.000000 0.01% ",
+        "7 days ago": "0.0016873",
+        "7 day change": "0.000000 0.01% ",
+        "30 days ago": "0.0016873",
+        "30 day change": "0.000000 0.01% "
+    },
+    {
+        "Currency Pair": "OMG/USD",
+        "Last Trade": "3.5202",
+        "24 hours ago": "3.5165",
+        "24 hour change": "0.0037000 0.11% ",
+        "7 days ago": "3.5165",
+        "7 day change": "0.0037000 0.11% ",
+        "30 days ago": "3.5165",
+        "30 day change": "0.0037000 0.11% "
+    },
+    {
+        "Currency Pair": "OMG/BTC",
+        "Last Trade": "0.00053023",
+        "24 hours ago": "0.00053023",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.00053023",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.00053023",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "OMG/ETH",
+        "Last Trade": "0.015085",
+        "24 hours ago": "0.015058",
+        "24 hour change": "0.000027 0.18% ",
+        "7 days ago": "0.015058",
+        "7 day change": "0.000027 0.18% ",
+        "30 days ago": "0.015058",
+        "30 day change": "0.000027 0.18% "
+    },
+    {
+        "Currency Pair": "XMR/USD",
+        "Last Trade": "119.71",
+        "24 hours ago": "119.71",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "119.71",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "119.71",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "XMR/BTC",
+        "Last Trade": "0.018049",
+        "24 hours ago": "0.018036",
+        "24 hour change": "0.000013 0.07% ",
+        "7 days ago": "0.018036",
+        "7 day change": "0.000013 0.07% ",
+        "30 days ago": "0.018036",
+        "30 day change": "0.000013 0.07% "
+    },
+    {
+        "Currency Pair": "DASH/USD",
+        "Last Trade": "200.92",
+        "24 hours ago": "200.92",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "200.92",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "200.92",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "DASH/BTC",
+        "Last Trade": "0.030254",
+        "24 hours ago": "0.030253",
+        "24 hour change": "0.000001 0.00% ",
+        "7 days ago": "0.030253",
+        "7 day change": "0.000001 0.00% ",
+        "30 days ago": "0.030253",
+        "30 day change": "0.000001 0.00% "
+    },
+    {
+        "Currency Pair": "TRX/USD",
+        "Last Trade": "0.0227",
+        "24 hours ago": "0.0227",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.0227",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.0227",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "TRX/BTC",
+        "Last Trade": "0.00000342",
+        "24 hours ago": "0.000003",
+        "24 hour change": "0.000000 0.29% ",
+        "7 days ago": "0.000003",
+        "7 day change": "0.000000 0.29% ",
+        "30 days ago": "0.000003",
+        "30 day change": "0.000000 0.29% "
+    },
+    {
+        "Currency Pair": "TRX/ETH",
+        "Last Trade": "0.00009659",
+        "24 hours ago": "0.000097",
+        "24 hour change": "-0.0014",
+        "7 days ago": "0.000097",
+        "7 day change": "-0.0014",
+        "30 days ago": "0.000097",
+        "30 day change": "-0.0014"
+    },
+    {
+        "Currency Pair": "ZEC/USD",
+        "Last Trade": "128.04",
+        "24 hours ago": "128.1",
+        "24 hour change": "-0.0605",
+        "7 days ago": "128.1",
+        "7 day change": "-0.0605",
+        "30 days ago": "128.1",
+        "30 day change": "-0.0605"
+    },
+    {
+        "Currency Pair": "ZEC/BTC",
+        "Last Trade": "0.01939",
+        "24 hours ago": "0.019343",
+        "24 hour change": "0.000047 0.24% ",
+        "7 days ago": "0.019343",
+        "7 day change": "0.000047 0.24% ",
+        "30 days ago": "0.019343",
+        "30 day change": "0.000047 0.24% "
+    },
+    {
+        "Currency Pair": "BTG/USD",
+        "Last Trade": "22.49",
+        "24 hours ago": "22.49",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "22.49",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "22.49",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "BTG/BTC",
+        "Last Trade": "0.0034083",
+        "24 hours ago": "0.0033811",
+        "24 hour change": "0.000027 0.80% ",
+        "7 days ago": "0.0033811",
+        "7 day change": "0.000027 0.80% ",
+        "30 days ago": "0.0033811",
+        "30 day change": "0.000027 0.80% "
+    },
+    {
+        "Currency Pair": "SAN/USD",
+        "Last Trade": "0.4868",
+        "24 hours ago": "0.48679",
+        "24 hour change": "0.000010 0.00% ",
+        "7 days ago": "0.48679",
+        "7 day change": "0.000010 0.00% ",
+        "30 days ago": "0.48679",
+        "30 day change": "0.000010 0.00% "
+    },
+    {
+        "Currency Pair": "SAN/BTC",
+        "Last Trade": "0.000075",
+        "24 hours ago": "0.000072",
+        "24 hour change": "0.000003 4.53% ",
+        "7 days ago": "0.000072",
+        "7 day change": "0.000003 4.53% ",
+        "30 days ago": "0.000072",
+        "30 day change": "0.000003 4.53% "
+    },
+    {
+        "Currency Pair": "SAN/ETH",
+        "Last Trade": "0.002001",
+        "24 hours ago": "0.002001",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.002001",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.002001",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "ZRX/USD",
+        "Last Trade": "0.63219",
+        "24 hours ago": "0.63159",
+        "24 hour change": "0.00060000 0.09% ",
+        "7 days ago": "0.63159",
+        "7 day change": "0.00060000 0.09% ",
+        "30 days ago": "0.63159",
+        "30 day change": "0.00060000 0.09% "
+    },
+    {
+        "Currency Pair": "ZRX/BTC",
+        "Last Trade": "0.00009546",
+        "24 hours ago": "0.000095",
+        "24 hour change": "0.000000 0.19% ",
+        "7 days ago": "0.000095",
+        "7 day change": "0.000000 0.19% ",
+        "30 days ago": "0.000095",
+        "30 day change": "0.000000 0.19% "
+    },
+    {
+        "Currency Pair": "ZRX/ETH",
+        "Last Trade": "0.0027039",
+        "24 hours ago": "0.0027046",
+        "24 hour change": "-0.000301",
+        "7 days ago": "0.0027046",
+        "7 day change": "-0.000301",
+        "30 days ago": "0.0027046",
+        "30 day change": "-0.000301"
+    },
+    {
+        "Currency Pair": "EDO/USD",
+        "Last Trade": "0.8741",
+        "24 hours ago": "0.8741",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.8741",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.8741",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "EDO/BTC",
+        "Last Trade": "0.000132",
+        "24 hours ago": "0.00012963",
+        "24 hour change": "0.000002 1.83% ",
+        "7 days ago": "0.00012963",
+        "7 day change": "0.000002 1.83% ",
+        "30 days ago": "0.00012963",
+        "30 day change": "0.000002 1.83% "
+    },
+    {
+        "Currency Pair": "EDO/ETH",
+        "Last Trade": "0.0037424",
+        "24 hours ago": "0.0037506",
+        "24 hour change": "-0.002208",
+        "7 days ago": "0.0037506",
+        "7 day change": "-0.002208",
+        "30 days ago": "0.0037506",
+        "30 day change": "-0.002208"
+    },
+    {
+        "Currency Pair": "ETP/USD",
+        "Last Trade": "3.7041",
+        "24 hours ago": "3.7032",
+        "24 hour change": "0.00090000 0.02% ",
+        "7 days ago": "3.7032",
+        "7 day change": "0.00090000 0.02% ",
+        "30 days ago": "3.7032",
+        "30 day change": "0.00090000 0.02% "
+    },
+    {
+        "Currency Pair": "ETP/BTC",
+        "Last Trade": "0.00055685",
+        "24 hours ago": "0.00055607",
+        "24 hour change": "0.000001 0.14% ",
+        "7 days ago": "0.00055607",
+        "7 day change": "0.000001 0.14% ",
+        "30 days ago": "0.00055607",
+        "30 day change": "0.000001 0.14% "
+    },
+    {
+        "Currency Pair": "ETP/ETH",
+        "Last Trade": "0.0159",
+        "24 hours ago": "0.015696",
+        "24 hour change": "0.00020400 1.30% ",
+        "7 days ago": "0.015696",
+        "7 day change": "0.00020400 1.30% ",
+        "30 days ago": "0.015696",
+        "30 day change": "0.00020400 1.30% "
+    },
+    {
+        "Currency Pair": "QTUM/USD",
+        "Last Trade": "3.9217",
+        "24 hours ago": "3.903",
+        "24 hour change": "0.018700 0.48% ",
+        "7 days ago": "3.903",
+        "7 day change": "0.018700 0.48% ",
+        "30 days ago": "3.903",
+        "30 day change": "0.018700 0.48% "
+    },
+    {
+        "Currency Pair": "QTUM/BTC",
+        "Last Trade": "0.00059783",
+        "24 hours ago": "0.0005881",
+        "24 hour change": "0.000010 1.65% ",
+        "7 days ago": "0.0005881",
+        "7 day change": "0.000010 1.65% ",
+        "30 days ago": "0.0005881",
+        "30 day change": "0.000010 1.65% "
+    },
+    {
+        "Currency Pair": "QTUM/ETH",
+        "Last Trade": "0.016554",
+        "24 hours ago": "0.01664",
+        "24 hour change": "-0.005286",
+        "7 days ago": "0.01664",
+        "7 day change": "-0.005286",
+        "30 days ago": "0.01664",
+        "30 day change": "-0.005286"
+    },
+    {
+        "Currency Pair": "BAT/USD",
+        "Last Trade": "0.17293",
+        "24 hours ago": "0.17001",
+        "24 hour change": "0.0029200 1.72% ",
+        "7 days ago": "0.17001",
+        "7 day change": "0.0029200 1.72% ",
+        "30 days ago": "0.17001",
+        "30 day change": "0.0029200 1.72% "
+    },
+    {
+        "Currency Pair": "BAT/BTC",
+        "Last Trade": "0.00002602",
+        "24 hours ago": "0.000025",
+        "24 hour change": "0.000001 2.28% ",
+        "7 days ago": "0.000025",
+        "7 day change": "0.000001 2.28% ",
+        "30 days ago": "0.000025",
+        "30 day change": "0.000001 2.28% "
+    },
+    {
+        "Currency Pair": "BAT/ETH",
+        "Last Trade": "0.0007301",
+        "24 hours ago": "0.00071569",
+        "24 hour change": "0.000014 2.01% ",
+        "7 days ago": "0.00071569",
+        "7 day change": "0.000014 2.01% ",
+        "30 days ago": "0.00071569",
+        "30 day change": "0.000014 2.01% "
+    },
+    {
+        "Currency Pair": "SNT/USD",
+        "Last Trade": "0.038625",
+        "24 hours ago": "0.038312",
+        "24 hour change": "0.00031300 0.82% ",
+        "7 days ago": "0.038312",
+        "7 day change": "0.00031300 0.82% ",
+        "30 days ago": "0.038312",
+        "30 day change": "0.00031300 0.82% "
+    },
+    {
+        "Currency Pair": "SNT/BTC",
+        "Last Trade": "0.00000602",
+        "24 hours ago": "0.000006",
+        "24 hour change": "0.000000 4.33% ",
+        "7 days ago": "0.000006",
+        "7 day change": "0.000000 4.33% ",
+        "30 days ago": "0.000006",
+        "30 day change": "0.000000 4.33% "
+    },
+    {
+        "Currency Pair": "SNT/ETH",
+        "Last Trade": "0.00016462",
+        "24 hours ago": "0.00016462",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.00016462",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.00016462",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "AID/USD",
+        "Last Trade": "0.052109",
+        "24 hours ago": "0.05211",
+        "24 hour change": "-0.000001",
+        "7 days ago": "0.05211",
+        "7 day change": "-0.000001",
+        "30 days ago": "0.05211",
+        "30 day change": "-0.000001"
+    },
+    {
+        "Currency Pair": "AID/BTC",
+        "Last Trade": "0.00000761",
+        "24 hours ago": "0.000008",
+        "24 hour change": "-0.0605",
+        "7 days ago": "0.000008",
+        "7 day change": "-0.0605",
+        "30 days ago": "0.000008",
+        "30 day change": "-0.0605"
+    },
+    {
+        "Currency Pair": "AID/ETH",
+        "Last Trade": "0.00020224",
+        "24 hours ago": "0.000202",
+        "24 hour change": "0.000000 0.12% ",
+        "7 days ago": "0.000202",
+        "7 day change": "0.000000 0.12% ",
+        "30 days ago": "0.000202",
+        "30 day change": "0.000000 0.12% "
+    },
+    {
+        "Currency Pair": "REP/USD",
+        "Last Trade": "13.489",
+        "24 hours ago": "13.4",
+        "24 hour change": "0.089000 0.66% ",
+        "7 days ago": "13.4",
+        "7 day change": "0.089000 0.66% ",
+        "30 days ago": "13.4",
+        "30 day change": "0.089000 0.66% "
+    },
+    {
+        "Currency Pair": "REP/BTC",
+        "Last Trade": "0.0020468",
+        "24 hours ago": "0.002006",
+        "24 hour change": "0.000041 2.03% ",
+        "7 days ago": "0.002006",
+        "7 day change": "0.000041 2.03% ",
+        "30 days ago": "0.002006",
+        "30 day change": "0.000041 2.03% "
+    },
+    {
+        "Currency Pair": "REP/ETH",
+        "Last Trade": "0.057346",
+        "24 hours ago": "0.056858",
+        "24 hour change": "0.00048800 0.86% ",
+        "7 days ago": "0.056858",
+        "7 day change": "0.00048800 0.86% ",
+        "30 days ago": "0.056858",
+        "30 day change": "0.00048800 0.86% "
+    },
+    {
+        "Currency Pair": "QASH/USD",
+        "Last Trade": "0.2195",
+        "24 hours ago": "0.2195",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.2195",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.2195",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "QASH/BTC",
+        "Last Trade": "0.00003276",
+        "24 hours ago": "0.000032",
+        "24 hour change": "0.000000 1.36% ",
+        "7 days ago": "0.000032",
+        "7 day change": "0.000000 1.36% ",
+        "30 days ago": "0.000032",
+        "30 day change": "0.000000 1.36% "
+    },
+    {
+        "Currency Pair": "QASH/ETH",
+        "Last Trade": "0.00094576",
+        "24 hours ago": "0.00089897",
+        "24 hour change": "0.000047 5.20% ",
+        "7 days ago": "0.00089897",
+        "7 day change": "0.000047 5.20% ",
+        "30 days ago": "0.00089897",
+        "30 day change": "0.000047 5.20% "
+    },
+    {
+        "Currency Pair": "YYW/USD",
+        "Last Trade": "0.0277",
+        "24 hours ago": "0.026789",
+        "24 hour change": "0.00091100 3.40% ",
+        "7 days ago": "0.026789",
+        "7 day change": "0.00091100 3.40% ",
+        "30 days ago": "0.026789",
+        "30 day change": "0.00091100 3.40% "
+    },
+    {
+        "Currency Pair": "YYW/BTC",
+        "Last Trade": "0.0000042",
+        "24 hours ago": "0.000004",
+        "24 hour change": "0.000000 4.48% ",
+        "7 days ago": "0.000004",
+        "7 day change": "0.000000 4.48% ",
+        "30 days ago": "0.000004",
+        "30 day change": "0.000000 4.48% "
+    },
+    {
+        "Currency Pair": "YYW/ETH",
+        "Last Trade": "0.00010758",
+        "24 hours ago": "0.00011483",
+        "24 hour change": "-0.063107",
+        "7 days ago": "0.00011483",
+        "7 day change": "-0.063107",
+        "30 days ago": "0.00011483",
+        "30 day change": "-0.063107"
+    },
+    {
+        "Currency Pair": "DATA/USD",
+        "Last Trade": "0.031",
+        "24 hours ago": "0.031202",
+        "24 hour change": "-0.006702",
+        "7 days ago": "0.031202",
+        "7 day change": "-0.006702",
+        "30 days ago": "0.031202",
+        "30 day change": "-0.006702"
+    },
+    {
+        "Currency Pair": "DATA/BTC",
+        "Last Trade": "0.0000047",
+        "24 hours ago": "0.000005",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.000005",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.000005",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "DATA/ETH",
+        "Last Trade": "0.00013001",
+        "24 hours ago": "0.00013203",
+        "24 hour change": "-0.015302",
+        "7 days ago": "0.00013203",
+        "7 day change": "-0.015302",
+        "30 days ago": "0.00013203",
+        "30 day change": "-0.015302"
+    },
+    {
+        "Currency Pair": "GNT/USD",
+        "Last Trade": "0.1462",
+        "24 hours ago": "0.14514",
+        "24 hour change": "0.0010600 0.73% ",
+        "7 days ago": "0.14514",
+        "7 day change": "0.0010600 0.73% ",
+        "30 days ago": "0.14514",
+        "30 day change": "0.0010600 0.73% "
+    },
+    {
+        "Currency Pair": "GNT/BTC",
+        "Last Trade": "0.00002206",
+        "24 hours ago": "0.000022",
+        "24 hour change": "0.000000 0.68% ",
+        "7 days ago": "0.000022",
+        "7 day change": "0.000000 0.68% ",
+        "30 days ago": "0.000022",
+        "30 day change": "0.000000 0.68% "
+    },
+    {
+        "Currency Pair": "GNT/ETH",
+        "Last Trade": "0.00062662",
+        "24 hours ago": "0.00061966",
+        "24 hour change": "0.000007 1.12% ",
+        "7 days ago": "0.00061966",
+        "7 day change": "0.000007 1.12% ",
+        "30 days ago": "0.00061966",
+        "30 day change": "0.000007 1.12% "
+    },
+    {
+        "Currency Pair": "TNB/USD",
+        "Last Trade": "0.0097",
+        "24 hours ago": "0.0089009",
+        "24 hour change": "0.00079910 8.98% ",
+        "7 days ago": "0.0089009",
+        "7 day change": "0.00079910 8.98% ",
+        "30 days ago": "0.0089009",
+        "30 day change": "0.00079910 8.98% "
+    },
+    {
+        "Currency Pair": "TNB/BTC",
+        "Last Trade": "0.00000138",
+        "24 hours ago": "0.000001",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.000001",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.000001",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "TNB/ETH",
+        "Last Trade": "0.00003357",
+        "24 hours ago": "0.000034",
+        "24 hour change": "-0.019601",
+        "7 days ago": "0.000034",
+        "7 day change": "-0.019601",
+        "30 days ago": "0.000034",
+        "30 day change": "-0.019601"
+    },
+    {
+        "Currency Pair": "FUN/USD",
+        "Last Trade": "0.017784",
+        "24 hours ago": "0.017775",
+        "24 hour change": "0.000009 0.05% ",
+        "7 days ago": "0.017775",
+        "7 day change": "0.000009 0.05% ",
+        "30 days ago": "0.017775",
+        "30 day change": "0.000009 0.05% "
+    },
+    {
+        "Currency Pair": "FUN/BTC",
+        "Last Trade": "0.00000267",
+        "24 hours ago": "0.000003",
+        "24 hour change": "0.000000 0.38% ",
+        "7 days ago": "0.000003",
+        "7 day change": "0.000000 0.38% ",
+        "30 days ago": "0.000003",
+        "30 day change": "0.000000 0.38% "
+    },
+    {
+        "Currency Pair": "FUN/ETH",
+        "Last Trade": "0.0000745",
+        "24 hours ago": "0.000075",
+        "24 hour change": "-0.008601",
+        "7 days ago": "0.000075",
+        "7 day change": "-0.008601",
+        "30 days ago": "0.000075",
+        "30 day change": "-0.008601"
+    },
+    {
+        "Currency Pair": "SPK/USD",
+        "Last Trade": "0.045254",
+        "24 hours ago": "0.045",
+        "24 hour change": "0.00025400 0.56% ",
+        "7 days ago": "0.045",
+        "7 day change": "0.00025400 0.56% ",
+        "30 days ago": "0.045",
+        "30 day change": "0.00025400 0.56% "
+    },
+    {
+        "Currency Pair": "SPK/BTC",
+        "Last Trade": "0.00000681",
+        "24 hours ago": "0.000006",
+        "24 hour change": "0.000001 22.48% ",
+        "7 days ago": "0.000006",
+        "7 day change": "0.000001 22.48% ",
+        "30 days ago": "0.000006",
+        "30 day change": "0.000001 22.48% "
+    },
+    {
+        "Currency Pair": "SPK/ETH",
+        "Last Trade": "0.000212",
+        "24 hours ago": "0.00019033",
+        "24 hour change": "0.000022 11.39% ",
+        "7 days ago": "0.00019033",
+        "7 day change": "0.000022 11.39% ",
+        "30 days ago": "0.00019033",
+        "30 day change": "0.000022 11.39% "
+    },
+    {
+        "Currency Pair": "RLC/USD",
+        "Last Trade": "0.38506",
+        "24 hours ago": "0.38001",
+        "24 hour change": "0.0050500 1.33% ",
+        "7 days ago": "0.38001",
+        "7 day change": "0.0050500 1.33% ",
+        "30 days ago": "0.38001",
+        "30 day change": "0.0050500 1.33% "
+    },
+    {
+        "Currency Pair": "RLC/BTC",
+        "Last Trade": "0.0000594",
+        "24 hours ago": "0.000058",
+        "24 hour change": "0.000001 2.03% ",
+        "7 days ago": "0.000058",
+        "7 day change": "0.000001 2.03% ",
+        "30 days ago": "0.000058",
+        "30 day change": "0.000001 2.03% "
+    },
+    {
+        "Currency Pair": "RLC/ETH",
+        "Last Trade": "0.0016475",
+        "24 hours ago": "0.0015827",
+        "24 hour change": "0.000065 4.09% ",
+        "7 days ago": "0.0015827",
+        "7 day change": "0.000065 4.09% ",
+        "30 days ago": "0.0015827",
+        "30 day change": "0.000065 4.09% "
+    },
+    {
+        "Currency Pair": "ELF/USD",
+        "Last Trade": "0.3401",
+        "24 hours ago": "0.33666",
+        "24 hour change": "0.0034400 1.02% ",
+        "7 days ago": "0.33666",
+        "7 day change": "0.0034400 1.02% ",
+        "30 days ago": "0.33666",
+        "30 day change": "0.0034400 1.02% "
+    },
+    {
+        "Currency Pair": "ELF/BTC",
+        "Last Trade": "0.00005115",
+        "24 hours ago": "0.000051",
+        "24 hour change": "0.000000 0.73% ",
+        "7 days ago": "0.000051",
+        "7 day change": "0.000000 0.73% ",
+        "30 days ago": "0.000051",
+        "30 day change": "0.000000 0.73% "
+    },
+    {
+        "Currency Pair": "ELF/ETH",
+        "Last Trade": "0.0014438",
+        "24 hours ago": "0.0014472",
+        "24 hour change": "-0.002303",
+        "7 days ago": "0.0014472",
+        "7 day change": "-0.002303",
+        "30 days ago": "0.0014472",
+        "30 day change": "-0.002303"
+    },
+    {
+        "Currency Pair": "AVT/USD",
+        "Last Trade": "0.43",
+        "24 hours ago": "0.43",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.43",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.43",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "AVT/BTC",
+        "Last Trade": "0.00006395",
+        "24 hours ago": "0.000063",
+        "24 hour change": "0.000001 1.51% ",
+        "7 days ago": "0.000063",
+        "7 day change": "0.000001 1.51% ",
+        "30 days ago": "0.000063",
+        "30 day change": "0.000001 1.51% "
+    },
+    {
+        "Currency Pair": "AVT/ETH",
+        "Last Trade": "0.0017672",
+        "24 hours ago": "0.0018098",
+        "24 hour change": "-0.023543",
+        "7 days ago": "0.0018098",
+        "7 day change": "-0.023543",
+        "30 days ago": "0.0018098",
+        "30 day change": "-0.023543"
+    },
+    {
+        "Currency Pair": "MNA/USD",
+        "Last Trade": "0.077792",
+        "24 hours ago": "0.0768",
+        "24 hour change": "0.00099200 1.29% ",
+        "7 days ago": "0.0768",
+        "7 day change": "0.00099200 1.29% ",
+        "30 days ago": "0.0768",
+        "30 day change": "0.00099200 1.29% "
+    },
+    {
+        "Currency Pair": "MNA/BTC",
+        "Last Trade": "0.00001135",
+        "24 hours ago": "0.000012",
+        "24 hour change": "-0.0199",
+        "7 days ago": "0.000012",
+        "7 day change": "-0.0199",
+        "30 days ago": "0.000012",
+        "30 day change": "-0.0199"
+    },
+    {
+        "Currency Pair": "MNA/ETH",
+        "Last Trade": "0.00031206",
+        "24 hours ago": "0.00032869",
+        "24 hour change": "-0.050617",
+        "7 days ago": "0.00032869",
+        "7 day change": "-0.050617",
+        "30 days ago": "0.00032869",
+        "30 day change": "-0.050617"
+    },
+    {
+        "Currency Pair": "RCN/USD",
+        "Last Trade": "0.029",
+        "24 hours ago": "0.027033",
+        "24 hour change": "0.0019670 7.28% ",
+        "7 days ago": "0.027033",
+        "7 day change": "0.0019670 7.28% ",
+        "30 days ago": "0.027033",
+        "30 day change": "0.0019670 7.28% "
+    },
+    {
+        "Currency Pair": "RCN/BTC",
+        "Last Trade": "0.00000436",
+        "24 hours ago": "0.000004",
+        "24 hour change": "0.000000 3.32% ",
+        "7 days ago": "0.000004",
+        "7 day change": "0.000000 3.32% ",
+        "30 days ago": "0.000004",
+        "30 day change": "0.000000 3.32% "
+    },
+    {
+        "Currency Pair": "RCN/ETH",
+        "Last Trade": "0.00009426",
+        "24 hours ago": "0.000092",
+        "24 hour change": "0.000002 2.53% ",
+        "7 days ago": "0.000092",
+        "7 day change": "0.000002 2.53% ",
+        "30 days ago": "0.000092",
+        "30 day change": "0.000002 2.53% "
+    },
+    {
+        "Currency Pair": "SNG/USD",
+        "Last Trade": "0.0248",
+        "24 hours ago": "0.0247",
+        "24 hour change": "0.00010000 0.40% ",
+        "7 days ago": "0.0247",
+        "7 day change": "0.00010000 0.40% ",
+        "30 days ago": "0.0247",
+        "30 day change": "0.00010000 0.40% "
+    },
+    {
+        "Currency Pair": "SNG/BTC",
+        "Last Trade": "0.0000037",
+        "24 hours ago": "0.000003",
+        "24 hour change": "0.000000 13.85% ",
+        "7 days ago": "0.000003",
+        "7 day change": "0.000000 13.85% ",
+        "30 days ago": "0.000003",
+        "30 day change": "0.000000 13.85% "
+    },
+    {
+        "Currency Pair": "SNG/ETH",
+        "Last Trade": "0.0001",
+        "24 hours ago": "0.000087",
+        "24 hour change": "0.000013 14.93% ",
+        "7 days ago": "0.000087",
+        "7 day change": "0.000013 14.93% ",
+        "30 days ago": "0.000087",
+        "30 day change": "0.000013 14.93% "
+    },
+    {
+        "Currency Pair": "RRT/USD",
+        "Last Trade": "0.039047",
+        "24 hours ago": "0.039",
+        "24 hour change": "0.000047 0.12% ",
+        "7 days ago": "0.039",
+        "7 day change": "0.000047 0.12% ",
+        "30 days ago": "0.039",
+        "30 day change": "0.000047 0.12% "
+    },
+    {
+        "Currency Pair": "RRT/BTC",
+        "Last Trade": "0.00000745",
+        "24 hours ago": "0.000005",
+        "24 hour change": "0.000002 48.11% ",
+        "7 days ago": "0.000005",
+        "7 day change": "0.000002 48.11% ",
+        "30 days ago": "0.000005",
+        "30 day change": "0.000002 48.11% "
+    },
+    {
+        "Currency Pair": "IOS/USD",
+        "Last Trade": "0.012674",
+        "24 hours ago": "0.012674",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.012674",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.012674",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "IOS/BTC",
+        "Last Trade": "0.00000191",
+        "24 hours ago": "0.000002",
+        "24 hour change": "0.000000 9.77% ",
+        "7 days ago": "0.000002",
+        "7 day change": "0.000000 9.77% ",
+        "30 days ago": "0.000002",
+        "30 day change": "0.000000 9.77% "
+    },
+    {
+        "Currency Pair": "IOS/ETH",
+        "Last Trade": "0.00005423",
+        "24 hours ago": "0.000054",
+        "24 hour change": "0.000000 0.69% ",
+        "7 days ago": "0.000054",
+        "7 day change": "0.000000 0.69% ",
+        "30 days ago": "0.000054",
+        "30 day change": "0.000000 0.69% "
+    },
+    {
+        "Currency Pair": "AIO/USD",
+        "Last Trade": "0.43052",
+        "24 hours ago": "0.39111",
+        "24 hour change": "0.039410 10.08% ",
+        "7 days ago": "0.39111",
+        "7 day change": "0.039410 10.08% ",
+        "30 days ago": "0.39111",
+        "30 day change": "0.039410 10.08% "
+    },
+    {
+        "Currency Pair": "AIO/BTC",
+        "Last Trade": "0.00009503",
+        "24 hours ago": "0.000056",
+        "24 hour change": "0.000039 68.73% ",
+        "7 days ago": "0.000056",
+        "7 day change": "0.000039 68.73% ",
+        "30 days ago": "0.000056",
+        "30 day change": "0.000039 68.73% "
+    },
+    {
+        "Currency Pair": "AIO/ETH",
+        "Last Trade": "0.0019021",
+        "24 hours ago": "0.00184",
+        "24 hour change": "0.000062 3.38% ",
+        "7 days ago": "0.00184",
+        "7 day change": "0.000062 3.38% ",
+        "30 days ago": "0.00184",
+        "30 day change": "0.000062 3.38% "
+    },
+    {
+        "Currency Pair": "REQ/USD",
+        "Last Trade": "0.046739",
+        "24 hours ago": "0.040419",
+        "24 hour change": "0.0063200 15.64% ",
+        "7 days ago": "0.040419",
+        "7 day change": "0.0063200 15.64% ",
+        "30 days ago": "0.040419",
+        "30 day change": "0.0063200 15.64% "
+    },
+    {
+        "Currency Pair": "REQ/BTC",
+        "Last Trade": "0.00000656",
+        "24 hours ago": "0.000006",
+        "24 hour change": "0.000000 8.25% ",
+        "7 days ago": "0.000006",
+        "7 day change": "0.000000 8.25% ",
+        "30 days ago": "0.000006",
+        "30 day change": "0.000000 8.25% "
+    },
+    {
+        "Currency Pair": "REQ/ETH",
+        "Last Trade": "0.00018",
+        "24 hours ago": "0.00016601",
+        "24 hour change": "0.000014 8.43% ",
+        "7 days ago": "0.00016601",
+        "7 day change": "0.000014 8.43% ",
+        "30 days ago": "0.00016601",
+        "30 day change": "0.000014 8.43% "
+    },
+    {
+        "Currency Pair": "RDN/USD",
+        "Last Trade": "0.48639",
+        "24 hours ago": "0.48502",
+        "24 hour change": "0.0013700 0.28% ",
+        "7 days ago": "0.48502",
+        "7 day change": "0.0013700 0.28% ",
+        "30 days ago": "0.48502",
+        "30 day change": "0.0013700 0.28% "
+    },
+    {
+        "Currency Pair": "RDN/BTC",
+        "Last Trade": "0.00008306",
+        "24 hours ago": "0.00007",
+        "24 hour change": "0.000013 18.69% ",
+        "7 days ago": "0.00007",
+        "7 day change": "0.000013 18.69% ",
+        "30 days ago": "0.00007",
+        "30 day change": "0.000013 18.69% "
+    },
+    {
+        "Currency Pair": "RDN/ETH",
+        "Last Trade": "0.0020405",
+        "24 hours ago": "0.0020294",
+        "24 hour change": "0.000011 0.55% ",
+        "7 days ago": "0.0020294",
+        "7 day change": "0.000011 0.55% ",
+        "30 days ago": "0.0020294",
+        "30 day change": "0.000011 0.55% "
+    },
+    {
+        "Currency Pair": "LRC/USD",
+        "Last Trade": "0.10646",
+        "24 hours ago": "0.097061",
+        "24 hour change": "0.0093990 9.68% ",
+        "7 days ago": "0.097061",
+        "7 day change": "0.0093990 9.68% ",
+        "30 days ago": "0.097061",
+        "30 day change": "0.0093990 9.68% "
+    },
+    {
+        "Currency Pair": "LRC/BTC",
+        "Last Trade": "0.00001555",
+        "24 hours ago": "0.000013",
+        "24 hour change": "0.000002 15.79% ",
+        "7 days ago": "0.000013",
+        "7 day change": "0.000002 15.79% ",
+        "30 days ago": "0.000013",
+        "30 day change": "0.000002 15.79% "
+    },
+    {
+        "Currency Pair": "LRC/ETH",
+        "Last Trade": "0.00045997",
+        "24 hours ago": "0.00027451",
+        "24 hour change": "0.00018546 67.56% ",
+        "7 days ago": "0.00027451",
+        "7 day change": "0.00018546 67.56% ",
+        "30 days ago": "0.00027451",
+        "30 day change": "0.00018546 67.56% "
+    },
+    {
+        "Currency Pair": "WAX/USD",
+        "Last Trade": "0.071232",
+        "24 hours ago": "0.069015",
+        "24 hour change": "0.0022170 3.21% ",
+        "7 days ago": "0.069015",
+        "7 day change": "0.0022170 3.21% ",
+        "30 days ago": "0.069015",
+        "30 day change": "0.0022170 3.21% "
+    },
+    {
+        "Currency Pair": "WAX/BTC",
+        "Last Trade": "0.00001086",
+        "24 hours ago": "0.00001",
+        "24 hour change": "0.000000 3.82% ",
+        "7 days ago": "0.00001",
+        "7 day change": "0.000000 3.82% ",
+        "30 days ago": "0.00001",
+        "30 day change": "0.000000 3.82% "
+    },
+    {
+        "Currency Pair": "WAX/ETH",
+        "Last Trade": "0.000306",
+        "24 hours ago": "0.00025054",
+        "24 hour change": "0.000055 22.14% ",
+        "7 days ago": "0.00025054",
+        "7 day change": "0.000055 22.14% ",
+        "30 days ago": "0.00025054",
+        "30 day change": "0.000055 22.14% "
+    },
+    {
+        "Currency Pair": "DAI/USD",
+        "Last Trade": "0.99808",
+        "24 hours ago": "0.99881",
+        "24 hour change": "-0.00143",
+        "7 days ago": "0.99881",
+        "7 day change": "-0.00143",
+        "30 days ago": "0.99881",
+        "30 day change": "-0.00143"
+    },
+    {
+        "Currency Pair": "DAI/BTC",
+        "Last Trade": "0.00014902",
+        "24 hours ago": "0.00015023",
+        "24 hour change": "-0.008101",
+        "7 days ago": "0.00015023",
+        "7 day change": "-0.008101",
+        "30 days ago": "0.00015023",
+        "30 day change": "-0.008101"
+    },
+    {
+        "Currency Pair": "DAI/ETH",
+        "Last Trade": "0.0040991",
+        "24 hours ago": "0.0042658",
+        "24 hour change": "-0.039267",
+        "7 days ago": "0.0042658",
+        "7 day change": "-0.039267",
+        "30 days ago": "0.0042658",
+        "30 day change": "-0.039267"
+    },
+    {
+        "Currency Pair": "CFI/USD",
+        "Last Trade": "0.023335",
+        "24 hours ago": "0.021205",
+        "24 hour change": "0.0021300 10.04% ",
+        "7 days ago": "0.021205",
+        "7 day change": "0.0021300 10.04% ",
+        "30 days ago": "0.021205",
+        "30 day change": "0.0021300 10.04% "
+    },
+    {
+        "Currency Pair": "CFI/BTC",
+        "Last Trade": "0.00000379",
+        "24 hours ago": "0.000003",
+        "24 hour change": "0.000001 39.34% ",
+        "7 days ago": "0.000003",
+        "7 day change": "0.000001 39.34% ",
+        "30 days ago": "0.000003",
+        "30 day change": "0.000001 39.34% "
+    },
+    {
+        "Currency Pair": "CFI/ETH",
+        "Last Trade": "0.00012897",
+        "24 hours ago": "0.000057",
+        "24 hour change": "0.000072 126.90% ",
+        "7 days ago": "0.000057",
+        "7 day change": "0.000072 126.90% ",
+        "30 days ago": "0.000057",
+        "30 day change": "0.000072 126.90% "
+    },
+    {
+        "Currency Pair": "AGI/USD",
+        "Last Trade": "0.049987",
+        "24 hours ago": "0.042448",
+        "24 hour change": "0.0075390 17.76% ",
+        "7 days ago": "0.042448",
+        "7 day change": "0.0075390 17.76% ",
+        "30 days ago": "0.042448",
+        "30 day change": "0.0075390 17.76% "
+    },
+    {
+        "Currency Pair": "AGI/BTC",
+        "Last Trade": "0.0000063",
+        "24 hours ago": "0.000006",
+        "24 hour change": "0.000000 0.64% ",
+        "7 days ago": "0.000006",
+        "7 day change": "0.000000 0.64% ",
+        "30 days ago": "0.000006",
+        "30 day change": "0.000000 0.64% "
+    },
+    {
+        "Currency Pair": "AGI/ETH",
+        "Last Trade": "0.000174",
+        "24 hours ago": "0.00017101",
+        "24 hour change": "0.000003 1.75% ",
+        "7 days ago": "0.00017101",
+        "7 day change": "0.000003 1.75% ",
+        "30 days ago": "0.00017101",
+        "30 day change": "0.000003 1.75% "
+    },
+    {
+        "Currency Pair": "BFT/USD",
+        "Last Trade": "0.0447",
+        "24 hours ago": "0.0447",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.0447",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.0447",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "BFT/BTC",
+        "Last Trade": "0.00000677",
+        "24 hours ago": "0.000007",
+        "24 hour change": "0.000000 1.04% ",
+        "7 days ago": "0.000007",
+        "7 day change": "0.000000 1.04% ",
+        "30 days ago": "0.000007",
+        "30 day change": "0.000000 1.04% "
+    },
+    {
+        "Currency Pair": "BFT/ETH",
+        "Last Trade": "0.000193",
+        "24 hours ago": "0.000192",
+        "24 hour change": "0.000001 0.52% ",
+        "7 days ago": "0.000192",
+        "7 day change": "0.000001 0.52% ",
+        "30 days ago": "0.000192",
+        "30 day change": "0.000001 0.52% "
+    },
+    {
+        "Currency Pair": "MTN/USD",
+        "Last Trade": "0.0228",
+        "24 hours ago": "0.022803",
+        "24 hour change": "-0.000103",
+        "7 days ago": "0.022803",
+        "7 day change": "-0.000103",
+        "30 days ago": "0.022803",
+        "30 day change": "-0.000103"
+    },
+    {
+        "Currency Pair": "MTN/BTC",
+        "Last Trade": "0.00000326",
+        "24 hours ago": "0.000003",
+        "24 hour change": "-0.0031",
+        "7 days ago": "0.000003",
+        "7 day change": "-0.0031",
+        "30 days ago": "0.000003",
+        "30 day change": "-0.0031"
+    },
+    {
+        "Currency Pair": "MTN/ETH",
+        "Last Trade": "0.000099",
+        "24 hours ago": "0.000089",
+        "24 hour change": "0.000010 11.54% ",
+        "7 days ago": "0.000089",
+        "7 day change": "0.000010 11.54% ",
+        "30 days ago": "0.000089",
+        "30 day change": "0.000010 11.54% "
+    },
+    {
+        "Currency Pair": "ODE/USD",
+        "Last Trade": "0.14013",
+        "24 hours ago": "0.14",
+        "24 hour change": "0.00013000 0.09% ",
+        "7 days ago": "0.14",
+        "7 day change": "0.00013000 0.09% ",
+        "30 days ago": "0.14",
+        "30 day change": "0.00013000 0.09% "
+    },
+    {
+        "Currency Pair": "ODE/BTC",
+        "Last Trade": "0.00001783",
+        "24 hours ago": "0.000018",
+        "24 hour change": "-0.01",
+        "7 days ago": "0.000018",
+        "7 day change": "-0.01",
+        "30 days ago": "0.000018",
+        "30 day change": "-0.01"
+    },
+    {
+        "Currency Pair": "ODE/ETH",
+        "Last Trade": "0.00062199",
+        "24 hours ago": "0.00060011",
+        "24 hour change": "0.000022 3.65% ",
+        "7 days ago": "0.00060011",
+        "7 day change": "0.000022 3.65% ",
+        "30 days ago": "0.00060011",
+        "30 day change": "0.000022 3.65% "
+    },
+    {
+        "Currency Pair": "ANT/USD",
+        "Last Trade": "0.933",
+        "24 hours ago": "0.83351",
+        "24 hour change": "0.099490 11.94% ",
+        "7 days ago": "0.83351",
+        "7 day change": "0.099490 11.94% ",
+        "30 days ago": "0.83351",
+        "30 day change": "0.099490 11.94% "
+    },
+    {
+        "Currency Pair": "ANT/BTC",
+        "Last Trade": "0.00014975",
+        "24 hours ago": "0.00014975",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.00014975",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.00014975",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "ANT/ETH",
+        "Last Trade": "0.0042495",
+        "24 hours ago": "0.0026008",
+        "24 hour change": "0.0016487 63.39% ",
+        "7 days ago": "0.0026008",
+        "7 day change": "0.0016487 63.39% ",
+        "30 days ago": "0.0026008",
+        "30 day change": "0.0016487 63.39% "
+    },
+    {
+        "Currency Pair": "DTH/USD",
+        "Last Trade": "0.030803",
+        "24 hours ago": "0.0305",
+        "24 hour change": "0.00030300 0.99% ",
+        "7 days ago": "0.0305",
+        "7 day change": "0.00030300 0.99% ",
+        "30 days ago": "0.0305",
+        "30 day change": "0.00030300 0.99% "
+    },
+    {
+        "Currency Pair": "DTH/BTC",
+        "Last Trade": "0.00000282",
+        "24 hours ago": "0.000003",
+        "24 hour change": "-0.0631",
+        "7 days ago": "0.000003",
+        "7 day change": "-0.0631",
+        "30 days ago": "0.000003",
+        "30 day change": "-0.0631"
+    },
+    {
+        "Currency Pair": "DTH/ETH",
+        "Last Trade": "0.00013141",
+        "24 hours ago": "0.00013109",
+        "24 hour change": "0.000000 0.24% ",
+        "7 days ago": "0.00013109",
+        "7 day change": "0.000000 0.24% ",
+        "30 days ago": "0.00013109",
+        "30 day change": "0.000000 0.24% "
+    },
+    {
+        "Currency Pair": "MIT/USD",
+        "Last Trade": "0.26104",
+        "24 hours ago": "0.265",
+        "24 hour change": "-0.01886",
+        "7 days ago": "0.265",
+        "7 day change": "-0.01886",
+        "30 days ago": "0.265",
+        "30 day change": "-0.01886"
+    },
+    {
+        "Currency Pair": "MIT/BTC",
+        "Last Trade": "0.0000395",
+        "24 hours ago": "0.000036",
+        "24 hour change": "0.000004 10.68% ",
+        "7 days ago": "0.000036",
+        "7 day change": "0.000004 10.68% ",
+        "30 days ago": "0.000036",
+        "30 day change": "0.000004 10.68% "
+    },
+    {
+        "Currency Pair": "MIT/ETH",
+        "Last Trade": "0.0011377",
+        "24 hours ago": "0.0011377",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.0011377",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.0011377",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "STJ/USD",
+        "Last Trade": "0.33",
+        "24 hours ago": "0.22816",
+        "24 hour change": "0.10184 44.64% ",
+        "7 days ago": "0.22816",
+        "7 day change": "0.10184 44.64% ",
+        "30 days ago": "0.22816",
+        "30 day change": "0.10184 44.64% "
+    },
+    {
+        "Currency Pair": "STJ/BTC",
+        "Last Trade": "0.00004577",
+        "24 hours ago": "0.000045",
+        "24 hour change": "0.000001 2.23% ",
+        "7 days ago": "0.000045",
+        "7 day change": "0.000001 2.23% ",
+        "30 days ago": "0.000045",
+        "30 day change": "0.000001 2.23% "
+    },
+    {
+        "Currency Pair": "STJ/ETH",
+        "Last Trade": "0.0014138",
+        "24 hours ago": "0.00080263",
+        "24 hour change": "0.00061117 76.15% ",
+        "7 days ago": "0.00080263",
+        "7 day change": "0.00061117 76.15% ",
+        "30 days ago": "0.00080263",
+        "30 day change": "0.00061117 76.15% "
+    },
+    {
+        "Currency Pair": "XLM/USD",
+        "Last Trade": "0.2597",
+        "24 hours ago": "0.25881",
+        "24 hour change": "0.00089000 0.34% ",
+        "7 days ago": "0.25881",
+        "7 day change": "0.00089000 0.34% ",
+        "30 days ago": "0.25881",
+        "30 day change": "0.00089000 0.34% "
+    },
+    {
+        "Currency Pair": "XLM/EUR",
+        "Last Trade": "0.22545",
+        "24 hours ago": "0.22146",
+        "24 hour change": "0.0039900 1.80% ",
+        "7 days ago": "0.22146",
+        "7 day change": "0.0039900 1.80% ",
+        "30 days ago": "0.22146",
+        "30 day change": "0.0039900 1.80% "
+    },
+    {
+        "Currency Pair": "XLM/JPY",
+        "Last Trade": "29.76719259",
+        "24 hours ago": "29.215",
+        "24 hour change": "0.55219 1.89% ",
+        "7 days ago": "29.215",
+        "7 day change": "0.55219 1.89% ",
+        "30 days ago": "29.215",
+        "30 day change": "0.55219 1.89% "
+    },
+    {
+        "Currency Pair": "XLM/GBP",
+        "Last Trade": "0.211887",
+        "24 hours ago": "0.19872",
+        "24 hour change": "0.013167 6.63% ",
+        "7 days ago": "0.19872",
+        "7 day change": "0.013167 6.63% ",
+        "30 days ago": "0.19872",
+        "30 day change": "0.013167 6.63% "
+    },
+    {
+        "Currency Pair": "XLM/BTC",
+        "Last Trade": "0.00003945",
+        "24 hours ago": "0.000039",
+        "24 hour change": "0.000000 0.69% ",
+        "7 days ago": "0.000039",
+        "7 day change": "0.000000 0.69% ",
+        "30 days ago": "0.000039",
+        "30 day change": "0.000000 0.69% "
+    },
+    {
+        "Currency Pair": "XLM/ETH",
+        "Last Trade": "0.0011221",
+        "24 hours ago": "0.0011192",
+        "24 hour change": "0.000003 0.26% ",
+        "7 days ago": "0.0011192",
+        "7 day change": "0.000003 0.26% ",
+        "30 days ago": "0.0011192",
+        "30 day change": "0.000003 0.26% "
+    },
+    {
+        "Currency Pair": "XVG/USD",
+        "Last Trade": "0.014687",
+        "24 hours ago": "0.014593",
+        "24 hour change": "0.000094 0.64% ",
+        "7 days ago": "0.014593",
+        "7 day change": "0.000094 0.64% ",
+        "30 days ago": "0.014593",
+        "30 day change": "0.000094 0.64% "
+    },
+    {
+        "Currency Pair": "XVG/EUR",
+        "Last Trade": "0.013765",
+        "24 hours ago": "0.012445",
+        "24 hour change": "0.0013200 10.61% ",
+        "7 days ago": "0.012445",
+        "7 day change": "0.0013200 10.61% ",
+        "30 days ago": "0.012445",
+        "30 day change": "0.0013200 10.61% "
+    },
+    {
+        "Currency Pair": "XVG/JPY",
+        "Last Trade": "1.74249951",
+        "24 hours ago": "1.6417",
+        "24 hour change": "0.10080 6.14% ",
+        "7 days ago": "1.6417",
+        "7 day change": "0.10080 6.14% ",
+        "30 days ago": "1.6417",
+        "30 day change": "0.10080 6.14% "
+    },
+    {
+        "Currency Pair": "XVG/GBP",
+        "Last Trade": "0.01156505",
+        "24 hours ago": "0.011167",
+        "24 hour change": "0.00039805 3.56% ",
+        "7 days ago": "0.011167",
+        "7 day change": "0.00039805 3.56% ",
+        "30 days ago": "0.011167",
+        "30 day change": "0.00039805 3.56% "
+    },
+    {
+        "Currency Pair": "XVG/BTC",
+        "Last Trade": "0.00000221",
+        "24 hours ago": "0.000002",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.000002",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.000002",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "XVG/ETH",
+        "Last Trade": "0.00006225",
+        "24 hours ago": "0.000062",
+        "24 hour change": "0.000001 1.14% ",
+        "7 days ago": "0.000062",
+        "7 day change": "0.000001 1.14% ",
+        "30 days ago": "0.000062",
+        "30 day change": "0.000001 1.14% "
+    },
+    {
+        "Currency Pair": "BCI/USD",
+        "Last Trade": "1.4",
+        "24 hours ago": "1.2705",
+        "24 hour change": "0.12950 10.19% ",
+        "7 days ago": "1.2705",
+        "7 day change": "0.12950 10.19% ",
+        "30 days ago": "1.2705",
+        "30 day change": "0.12950 10.19% "
+    },
+    {
+        "Currency Pair": "BCI/BTC",
+        "Last Trade": "0.00019043",
+        "24 hours ago": "0.00019051",
+        "24 hour change": "-0.0004",
+        "7 days ago": "0.00019051",
+        "7 day change": "-0.0004",
+        "30 days ago": "0.00019051",
+        "30 day change": "-0.0004"
+    },
+    {
+        "Currency Pair": "MKR/USD",
+        "Last Trade": "454.81",
+        "24 hours ago": "408.83",
+        "24 hour change": "45.980 11.25% ",
+        "7 days ago": "408.83",
+        "7 day change": "45.980 11.25% ",
+        "30 days ago": "408.83",
+        "30 day change": "45.980 11.25% "
+    },
+    {
+        "Currency Pair": "MKR/BTC",
+        "Last Trade": "0.069",
+        "24 hours ago": "0.069",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.069",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.069",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "MKR/ETH",
+        "Last Trade": "1.9098",
+        "24 hours ago": "1.8367",
+        "24 hour change": "0.073100 3.98% ",
+        "7 days ago": "1.8367",
+        "7 day change": "0.073100 3.98% ",
+        "30 days ago": "1.8367",
+        "30 day change": "0.073100 3.98% "
+    },
+    {
+        "Currency Pair": "KNC/USD",
+        "Last Trade": "0.39511",
+        "24 hours ago": "0.37283",
+        "24 hour change": "0.022280 5.98% ",
+        "7 days ago": "0.37283",
+        "7 day change": "0.022280 5.98% ",
+        "30 days ago": "0.37283",
+        "30 day change": "0.022280 5.98% "
+    },
+    {
+        "Currency Pair": "KNC/BTC",
+        "Last Trade": "0.00006026",
+        "24 hours ago": "0.000055",
+        "24 hour change": "0.000006 10.55% ",
+        "7 days ago": "0.000055",
+        "7 day change": "0.000006 10.55% ",
+        "30 days ago": "0.000055",
+        "30 day change": "0.000006 10.55% "
+    },
+    {
+        "Currency Pair": "KNC/ETH",
+        "Last Trade": "0.0015889",
+        "24 hours ago": "0.0015621",
+        "24 hour change": "0.000027 1.72% ",
+        "7 days ago": "0.0015621",
+        "7 day change": "0.000027 1.72% ",
+        "30 days ago": "0.0015621",
+        "30 day change": "0.000027 1.72% "
+    },
+    {
+        "Currency Pair": "POA/USD",
+        "Last Trade": "0.077301",
+        "24 hours ago": "0.077301",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.077301",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.077301",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "POA/BTC",
+        "Last Trade": "0.00001197",
+        "24 hours ago": "0.000011",
+        "24 hour change": "0.000001 11.87% ",
+        "7 days ago": "0.000011",
+        "7 day change": "0.000001 11.87% ",
+        "30 days ago": "0.000011",
+        "30 day change": "0.000001 11.87% "
+    },
+    {
+        "Currency Pair": "POA/ETH",
+        "Last Trade": "0.00030036",
+        "24 hours ago": "0.00030402",
+        "24 hour change": "-0.012004",
+        "7 days ago": "0.00030402",
+        "7 day change": "-0.012004",
+        "30 days ago": "0.00030402",
+        "30 day change": "-0.012004"
+    },
+    {
+        "Currency Pair": "LYM/USD",
+        "Last Trade": "0.0201",
+        "24 hours ago": "0.019014",
+        "24 hour change": "0.0010860 5.71% ",
+        "7 days ago": "0.019014",
+        "7 day change": "0.0010860 5.71% ",
+        "30 days ago": "0.019014",
+        "30 day change": "0.0010860 5.71% "
+    },
+    {
+        "Currency Pair": "LYM/BTC",
+        "Last Trade": "0.00000286",
+        "24 hours ago": "0.000003",
+        "24 hour change": "0.000000 2.14% ",
+        "7 days ago": "0.000003",
+        "7 day change": "0.000000 2.14% ",
+        "30 days ago": "0.000003",
+        "30 day change": "0.000000 2.14% "
+    },
+    {
+        "Currency Pair": "LYM/ETH",
+        "Last Trade": "0.0000829",
+        "24 hours ago": "0.00008",
+        "24 hour change": "0.000003 3.33% ",
+        "7 days ago": "0.00008",
+        "7 day change": "0.000003 3.33% ",
+        "30 days ago": "0.00008",
+        "30 day change": "0.000003 3.33% "
+    },
+    {
+        "Currency Pair": "UTK/USD",
+        "Last Trade": "0.034997",
+        "24 hours ago": "0.029805",
+        "24 hour change": "0.0051920 17.42% ",
+        "7 days ago": "0.029805",
+        "7 day change": "0.0051920 17.42% ",
+        "30 days ago": "0.029805",
+        "30 day change": "0.0051920 17.42% "
+    },
+    {
+        "Currency Pair": "UTK/BTC",
+        "Last Trade": "0.00000471",
+        "24 hours ago": "0.000005",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.000005",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.000005",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "UTK/ETH",
+        "Last Trade": "0.00013433",
+        "24 hours ago": "0.00013303",
+        "24 hour change": "0.000001 0.98% ",
+        "7 days ago": "0.00013303",
+        "7 day change": "0.000001 0.98% ",
+        "30 days ago": "0.00013303",
+        "30 day change": "0.000001 0.98% "
+    },
+    {
+        "Currency Pair": "VEE/USD",
+        "Last Trade": "0.012595",
+        "24 hours ago": "0.0095009",
+        "24 hour change": "0.0030941 32.57% ",
+        "7 days ago": "0.0095009",
+        "7 day change": "0.0030941 32.57% ",
+        "30 days ago": "0.0095009",
+        "30 day change": "0.0030941 32.57% "
+    },
+    {
+        "Currency Pair": "VEE/BTC",
+        "Last Trade": "0.00000162",
+        "24 hours ago": "0.000001",
+        "24 hour change": "0.000001 88.37% ",
+        "7 days ago": "0.000001",
+        "7 day change": "0.000001 88.37% ",
+        "30 days ago": "0.000001",
+        "30 day change": "0.000001 88.37% "
+    },
+    {
+        "Currency Pair": "VEE/ETH",
+        "Last Trade": "0.00003801",
+        "24 hours ago": "0.000025",
+        "24 hour change": "0.000013 51.98% ",
+        "7 days ago": "0.000025",
+        "7 day change": "0.000013 51.98% ",
+        "30 days ago": "0.000025",
+        "30 day change": "0.000013 51.98% "
+    },
+    {
+        "Currency Pair": "DAD/USD",
+        "Last Trade": "0.087777",
+        "24 hours ago": "0.081002",
+        "24 hour change": "0.0067750 8.36% ",
+        "7 days ago": "0.081002",
+        "7 day change": "0.0067750 8.36% ",
+        "30 days ago": "0.081002",
+        "30 day change": "0.0067750 8.36% "
+    },
+    {
+        "Currency Pair": "DAD/BTC",
+        "Last Trade": "0.00001272",
+        "24 hours ago": "0.000013",
+        "24 hour change": "0.000000 0.16% ",
+        "7 days ago": "0.000013",
+        "7 day change": "0.000000 0.16% ",
+        "30 days ago": "0.000013",
+        "30 day change": "0.000000 0.16% "
+    },
+    {
+        "Currency Pair": "DAD/ETH",
+        "Last Trade": "0.00035914",
+        "24 hours ago": "0.00035916",
+        "24 hour change": "-0.0001",
+        "7 days ago": "0.00035916",
+        "7 day change": "-0.0001",
+        "30 days ago": "0.00035916",
+        "30 day change": "-0.0001"
+    },
+    {
+        "Currency Pair": "ORS/USD",
+        "Last Trade": "0.02601",
+        "24 hours ago": "0.02601",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.02601",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.02601",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "ORS/BTC",
+        "Last Trade": "0.00000382",
+        "24 hours ago": "0.000004",
+        "24 hour change": "0.000000 2.41% ",
+        "7 days ago": "0.000004",
+        "7 day change": "0.000000 2.41% ",
+        "30 days ago": "0.000004",
+        "30 day change": "0.000000 2.41% "
+    },
+    {
+        "Currency Pair": "ORS/ETH",
+        "Last Trade": "0.00011",
+        "24 hours ago": "0.00010422",
+        "24 hour change": "0.000006 5.55% ",
+        "7 days ago": "0.00010422",
+        "7 day change": "0.000006 5.55% ",
+        "30 days ago": "0.00010422",
+        "30 day change": "0.000006 5.55% "
+    },
+    {
+        "Currency Pair": "AUC/USD",
+        "Last Trade": "0.05",
+        "24 hours ago": "0.042001",
+        "24 hour change": "0.0079990 19.04% ",
+        "7 days ago": "0.042001",
+        "7 day change": "0.0079990 19.04% ",
+        "30 days ago": "0.042001",
+        "30 day change": "0.0079990 19.04% "
+    },
+    {
+        "Currency Pair": "AUC/BTC",
+        "Last Trade": "0.0000081",
+        "24 hours ago": "0.000007",
+        "24 hour change": "0.000001 21.80% ",
+        "7 days ago": "0.000007",
+        "7 day change": "0.000001 21.80% ",
+        "30 days ago": "0.000007",
+        "30 day change": "0.000001 21.80% "
+    },
+    {
+        "Currency Pair": "AUC/ETH",
+        "Last Trade": "0.000205",
+        "24 hours ago": "0.000151",
+        "24 hour change": "0.000054 35.76% ",
+        "7 days ago": "0.000151",
+        "7 day change": "0.000054 35.76% ",
+        "30 days ago": "0.000151",
+        "30 day change": "0.000054 35.76% "
+    },
+    {
+        "Currency Pair": "POY/USD",
+        "Last Trade": "0.2",
+        "24 hours ago": "0.15766",
+        "24 hour change": "0.042340 26.86% ",
+        "7 days ago": "0.15766",
+        "7 day change": "0.042340 26.86% ",
+        "30 days ago": "0.15766",
+        "30 day change": "0.042340 26.86% "
+    },
+    {
+        "Currency Pair": "POY/BTC",
+        "Last Trade": "0.0000266",
+        "24 hours ago": "0.000022",
+        "24 hour change": "0.000005 22.64% ",
+        "7 days ago": "0.000022",
+        "7 day change": "0.000005 22.64% ",
+        "30 days ago": "0.000022",
+        "30 day change": "0.000005 22.64% "
+    },
+    {
+        "Currency Pair": "POY/ETH",
+        "Last Trade": "0.000714",
+        "24 hours ago": "0.00068513",
+        "24 hour change": "0.000029 4.21% ",
+        "7 days ago": "0.00068513",
+        "7 day change": "0.000029 4.21% ",
+        "30 days ago": "0.00068513",
+        "30 day change": "0.000029 4.21% "
+    },
+    {
+        "Currency Pair": "FSN/USD",
+        "Last Trade": "1.0541",
+        "24 hours ago": "0.84626",
+        "24 hour change": "0.20784 24.56% ",
+        "7 days ago": "0.84626",
+        "7 day change": "0.20784 24.56% ",
+        "30 days ago": "0.84626",
+        "30 day change": "0.20784 24.56% "
+    },
+    {
+        "Currency Pair": "FSN/BTC",
+        "Last Trade": "0.00015206",
+        "24 hours ago": "0.0001276",
+        "24 hour change": "0.000024 19.17% ",
+        "7 days ago": "0.0001276",
+        "7 day change": "0.000024 19.17% ",
+        "30 days ago": "0.0001276",
+        "30 day change": "0.000024 19.17% "
+    },
+    {
+        "Currency Pair": "FSN/ETH",
+        "Last Trade": "0.0036",
+        "24 hours ago": "0.0036001",
+        "24 hour change": "0",
+        "7 days ago": "0.0036001",
+        "7 day change": "0",
+        "30 days ago": "0.0036001",
+        "30 day change": "0"
+    },
+    {
+        "Currency Pair": "CBT/USD",
+        "Last Trade": "0.012482",
+        "24 hours ago": "0.0092353",
+        "24 hour change": "0.0032467 35.16% ",
+        "7 days ago": "0.0092353",
+        "7 day change": "0.0032467 35.16% ",
+        "30 days ago": "0.0092353",
+        "30 day change": "0.0032467 35.16% "
+    },
+    {
+        "Currency Pair": "CBT/BTC",
+        "Last Trade": "0.00000177",
+        "24 hours ago": "0.000001",
+        "24 hour change": "0.000001 75.25% ",
+        "7 days ago": "0.000001",
+        "7 day change": "0.000001 75.25% ",
+        "30 days ago": "0.000001",
+        "30 day change": "0.000001 75.25% "
+    },
+    {
+        "Currency Pair": "CBT/ETH",
+        "Last Trade": "0.00004076",
+        "24 hours ago": "0.000041",
+        "24 hour change": "-0.0059",
+        "7 days ago": "0.000041",
+        "7 day change": "-0.0059",
+        "30 days ago": "0.000041",
+        "30 day change": "-0.0059"
+    },
+    {
+        "Currency Pair": "ZCN/USD",
+        "Last Trade": "0.11612",
+        "24 hours ago": "0.10601",
+        "24 hour change": "0.010110 9.54% ",
+        "7 days ago": "0.10601",
+        "7 day change": "0.010110 9.54% ",
+        "30 days ago": "0.10601",
+        "30 day change": "0.010110 9.54% "
+    },
+    {
+        "Currency Pair": "ZCN/BTC",
+        "Last Trade": "0.0000086",
+        "24 hours ago": "0.000005",
+        "24 hour change": "0.000003 56.65% ",
+        "7 days ago": "0.000005",
+        "7 day change": "0.000003 56.65% ",
+        "30 days ago": "0.000005",
+        "30 day change": "0.000003 56.65% "
+    },
+    {
+        "Currency Pair": "ZCN/ETH",
+        "Last Trade": "0.00041365",
+        "24 hours ago": "0.0003701",
+        "24 hour change": "0.000044 11.77% ",
+        "7 days ago": "0.0003701",
+        "7 day change": "0.000044 11.77% ",
+        "30 days ago": "0.0003701",
+        "30 day change": "0.000044 11.77% "
+    },
+    {
+        "Currency Pair": "SEN/USD",
+        "Last Trade": "0.00383",
+        "24 hours ago": "0.0029632",
+        "24 hour change": "0.00086680 29.25% ",
+        "7 days ago": "0.0029632",
+        "7 day change": "0.00086680 29.25% ",
+        "30 days ago": "0.0029632",
+        "30 day change": "0.00086680 29.25% "
+    },
+    {
+        "Currency Pair": "SEN/BTC",
+        "Last Trade": "0.00000048",
+        "24 hours ago": "0",
+        "24 hour change": "0.000000 11.63% ",
+        "7 days ago": "0",
+        "7 day change": "0.000000 11.63% ",
+        "30 days ago": "0",
+        "30 day change": "0.000000 11.63% "
+    },
+    {
+        "Currency Pair": "SEN/ETH",
+        "Last Trade": "0.00001395",
+        "24 hours ago": "0.000012",
+        "24 hour change": "0.000002 13.32% ",
+        "7 days ago": "0.000012",
+        "7 day change": "0.000002 13.32% ",
+        "30 days ago": "0.000012",
+        "30 day change": "0.000002 13.32% "
+    },
+    {
+        "Currency Pair": "NCA/USD",
+        "Last Trade": "0.0068243",
+        "24 hours ago": "0.0055113",
+        "24 hour change": "0.0013130 23.82% ",
+        "7 days ago": "0.0055113",
+        "7 day change": "0.0013130 23.82% ",
+        "30 days ago": "0.0055113",
+        "30 day change": "0.0013130 23.82% "
+    },
+    {
+        "Currency Pair": "NCA/BTC",
+        "Last Trade": "0.00000084",
+        "24 hours ago": "0",
+        "24 hour change": "0.000001 180.00% ",
+        "7 days ago": "0",
+        "7 day change": "0.000001 180.00% ",
+        "30 days ago": "0",
+        "30 day change": "0.000001 180.00% "
+    },
+    {
+        "Currency Pair": "NCA/ETH",
+        "Last Trade": "0.00002018",
+        "24 hours ago": "0.000006",
+        "24 hour change": "0.000014 247.93% ",
+        "7 days ago": "0.000006",
+        "7 day change": "0.000014 247.93% ",
+        "30 days ago": "0.000006",
+        "30 day change": "0.000014 247.93% "
+    },
+    {
+        "Currency Pair": "CND/USD",
+        "Last Trade": "0.022677",
+        "24 hours ago": "0.022655",
+        "24 hour change": "0.000022 0.10% ",
+        "7 days ago": "0.022655",
+        "7 day change": "0.000022 0.10% ",
+        "30 days ago": "0.022655",
+        "30 day change": "0.000022 0.10% "
+    },
+    {
+        "Currency Pair": "CND/BTC",
+        "Last Trade": "0.00000357",
+        "24 hours ago": "0.000003",
+        "24 hour change": "0.000000 6.25% ",
+        "7 days ago": "0.000003",
+        "7 day change": "0.000000 6.25% ",
+        "30 days ago": "0.000003",
+        "30 day change": "0.000000 6.25% "
+    },
+    {
+        "Currency Pair": "CND/ETH",
+        "Last Trade": "0.0000776",
+        "24 hours ago": "0.00009",
+        "24 hour change": "-0.138012",
+        "7 days ago": "0.00009",
+        "7 day change": "-0.138012",
+        "30 days ago": "0.00009",
+        "30 day change": "-0.138012"
+    },
+    {
+        "Currency Pair": "CTX/USD",
+        "Last Trade": "0.31801",
+        "24 hours ago": "0.29027",
+        "24 hour change": "0.027740 9.56% ",
+        "7 days ago": "0.29027",
+        "7 day change": "0.027740 9.56% ",
+        "30 days ago": "0.29027",
+        "30 day change": "0.027740 9.56% "
+    },
+    {
+        "Currency Pair": "CTX/BTC",
+        "Last Trade": "0.00004945",
+        "24 hours ago": "0.00004",
+        "24 hour change": "0.000009 22.43% ",
+        "7 days ago": "0.00004",
+        "7 day change": "0.000009 22.43% ",
+        "30 days ago": "0.00004",
+        "30 day change": "0.000009 22.43% "
+    },
+    {
+        "Currency Pair": "CTX/ETH",
+        "Last Trade": "0.0013724",
+        "24 hours ago": "0.00080001",
+        "24 hour change": "0.00057239 71.55% ",
+        "7 days ago": "0.00080001",
+        "7 day change": "0.00057239 71.55% ",
+        "30 days ago": "0.00080001",
+        "30 day change": "0.00057239 71.55% "
+    },
+    {
+        "Currency Pair": "PAI/USD",
+        "Last Trade": "0.1933",
+        "24 hours ago": "0.19333",
+        "24 hour change": "-0.00023",
+        "7 days ago": "0.19333",
+        "7 day change": "-0.00023",
+        "30 days ago": "0.19333",
+        "30 day change": "-0.00023"
+    },
+    {
+        "Currency Pair": "PAI/BTC",
+        "Last Trade": "0.00003239",
+        "24 hours ago": "0.000029",
+        "24 hour change": "0.000004 12.86% ",
+        "7 days ago": "0.000029",
+        "7 day change": "0.000004 12.86% ",
+        "30 days ago": "0.000029",
+        "30 day change": "0.000004 12.86% "
+    },
+    {
+        "Currency Pair": "SEE/USD",
+        "Last Trade": "0.0021998",
+        "24 hours ago": "0.0020003",
+        "24 hour change": "0.00019950 9.97% ",
+        "7 days ago": "0.0020003",
+        "7 day change": "0.00019950 9.97% ",
+        "30 days ago": "0.0020003",
+        "30 day change": "0.00019950 9.97% "
+    },
+    {
+        "Currency Pair": "SEE/BTC",
+        "Last Trade": "0.0000003",
+        "24 hours ago": "0",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "SEE/ETH",
+        "Last Trade": "0.00000985",
+        "24 hours ago": "0.000006",
+        "24 hour change": "0.000004 71.60% ",
+        "7 days ago": "0.000006",
+        "7 day change": "0.000004 71.60% ",
+        "30 days ago": "0.000006",
+        "30 day change": "0.000004 71.60% "
+    },
+    {
+        "Currency Pair": "ESS/USD",
+        "Last Trade": "0.0059",
+        "24 hours ago": "0.0059",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.0059",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.0059",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "ESS/BTC",
+        "Last Trade": "0.00000127",
+        "24 hours ago": "0",
+        "24 hour change": "0.000001 154.00% ",
+        "7 days ago": "0",
+        "7 day change": "0.000001 154.00% ",
+        "30 days ago": "0",
+        "30 day change": "0.000001 154.00% "
+    },
+    {
+        "Currency Pair": "ESS/ETH",
+        "Last Trade": "0.00002673",
+        "24 hours ago": "0.000024",
+        "24 hour change": "0.000003 10.59% ",
+        "7 days ago": "0.000024",
+        "7 day change": "0.000003 10.59% ",
+        "30 days ago": "0.000024",
+        "30 day change": "0.000003 10.59% "
+    },
+    {
+        "Currency Pair": "ATM/USD",
+        "Last Trade": "0.006",
+        "24 hours ago": "0.0055",
+        "24 hour change": "0.00050000 9.09% ",
+        "7 days ago": "0.0055",
+        "7 day change": "0.00050000 9.09% ",
+        "30 days ago": "0.0055",
+        "30 day change": "0.00050000 9.09% "
+    },
+    {
+        "Currency Pair": "ATM/BTC",
+        "Last Trade": "0.000001",
+        "24 hours ago": "0.000001",
+        "24 hour change": "0.000000 92.31% ",
+        "7 days ago": "0.000001",
+        "7 day change": "0.000000 92.31% ",
+        "30 days ago": "0.000001",
+        "30 day change": "0.000000 92.31% "
+    },
+    {
+        "Currency Pair": "ATM/ETH",
+        "Last Trade": "0.0000271",
+        "24 hours ago": "0.000027",
+        "24 hour change": "0.000000 1.01% ",
+        "7 days ago": "0.000027",
+        "7 day change": "0.000000 1.01% ",
+        "30 days ago": "0.000027",
+        "30 day change": "0.000000 1.01% "
+    },
+    {
+        "Currency Pair": "HOT/USD",
+        "Last Trade": "0.0111",
+        "24 hours ago": "0.0111",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.0111",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.0111",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "HOT/BTC",
+        "Last Trade": "0.00000166",
+        "24 hours ago": "0.000002",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.000002",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.000002",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "HOT/ETH",
+        "Last Trade": "0.00004727",
+        "24 hours ago": "0.000047",
+        "24 hour change": "0.000000 1.00% ",
+        "7 days ago": "0.000047",
+        "7 day change": "0.000000 1.00% ",
+        "30 days ago": "0.000047",
+        "30 day change": "0.000000 1.00% "
+    },
+    {
+        "Currency Pair": "DTA/USD",
+        "Last Trade": "0.00293",
+        "24 hours ago": "0.0024717",
+        "24 hour change": "0.00045830 18.54% ",
+        "7 days ago": "0.0024717",
+        "7 day change": "0.00045830 18.54% ",
+        "30 days ago": "0.0024717",
+        "30 day change": "0.00045830 18.54% "
+    },
+    {
+        "Currency Pair": "DTA/BTC",
+        "Last Trade": "0.00000043",
+        "24 hours ago": "0",
+        "24 hour change": "0.000000 13.16% ",
+        "7 days ago": "0",
+        "7 day change": "0.000000 13.16% ",
+        "30 days ago": "0",
+        "30 day change": "0.000000 13.16% "
+    },
+    {
+        "Currency Pair": "DTA/ETH",
+        "Last Trade": "0.0000115",
+        "24 hours ago": "0.000008",
+        "24 hour change": "0.000004 49.54% ",
+        "7 days ago": "0.000008",
+        "7 day change": "0.000004 49.54% ",
+        "30 days ago": "0.000008",
+        "30 day change": "0.000004 49.54% "
+    },
+    {
+        "Currency Pair": "IQX/USD",
+        "Last Trade": "0.010002",
+        "24 hours ago": "0.0098012",
+        "24 hour change": "0.00020080 2.05% ",
+        "7 days ago": "0.0098012",
+        "7 day change": "0.00020080 2.05% ",
+        "30 days ago": "0.0098012",
+        "30 day change": "0.00020080 2.05% "
+    },
+    {
+        "Currency Pair": "IQX/BTC",
+        "Last Trade": "0.00000133",
+        "24 hours ago": "0.000001",
+        "24 hour change": "-0.0148",
+        "7 days ago": "0.000001",
+        "7 day change": "-0.0148",
+        "30 days ago": "0.000001",
+        "30 day change": "-0.0148"
+    },
+    {
+        "Currency Pair": "IQX/EOS",
+        "Last Trade": "0.0017511",
+        "24 hours ago": "0.0017511",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.0017511",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.0017511",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "WPR/USD",
+        "Last Trade": "0.023",
+        "24 hours ago": "0.022004",
+        "24 hour change": "0.00099600 4.53% ",
+        "7 days ago": "0.022004",
+        "7 day change": "0.00099600 4.53% ",
+        "30 days ago": "0.022004",
+        "30 day change": "0.00099600 4.53% "
+    },
+    {
+        "Currency Pair": "WPR/BTC",
+        "Last Trade": "0.0000035",
+        "24 hours ago": "0.000002",
+        "24 hour change": "0.000001 48.94% ",
+        "7 days ago": "0.000002",
+        "7 day change": "0.000001 48.94% ",
+        "30 days ago": "0.000002",
+        "30 day change": "0.000001 48.94% "
+    },
+    {
+        "Currency Pair": "WPR/ETH",
+        "Last Trade": "0.0005",
+        "24 hours ago": "0.00007",
+        "24 hour change": "0.00042999 614.18% ",
+        "7 days ago": "0.00007",
+        "7 day change": "0.00042999 614.18% ",
+        "30 days ago": "0.00007",
+        "30 day change": "0.00042999 614.18% "
+    },
+    {
+        "Currency Pair": "ZIL/USD",
+        "Last Trade": "0.036",
+        "24 hours ago": "0.034709",
+        "24 hour change": "0.0012910 3.72% ",
+        "7 days ago": "0.034709",
+        "7 day change": "0.0012910 3.72% ",
+        "30 days ago": "0.034709",
+        "30 day change": "0.0012910 3.72% "
+    },
+    {
+        "Currency Pair": "ZIL/BTC",
+        "Last Trade": "0.00000528",
+        "24 hours ago": "0.000005",
+        "24 hour change": "0.000000 0.38% ",
+        "7 days ago": "0.000005",
+        "7 day change": "0.000000 0.38% ",
+        "30 days ago": "0.000005",
+        "30 day change": "0.000000 0.38% "
+    },
+    {
+        "Currency Pair": "ZIL/ETH",
+        "Last Trade": "0.00014519",
+        "24 hours ago": "0.0001382",
+        "24 hour change": "0.000007 5.06% ",
+        "7 days ago": "0.0001382",
+        "7 day change": "0.000007 5.06% ",
+        "30 days ago": "0.0001382",
+        "30 day change": "0.000007 5.06% "
+    },
+    {
+        "Currency Pair": "BNT/USD",
+        "Last Trade": "1.5686",
+        "24 hours ago": "1.4396",
+        "24 hour change": "0.12900 8.96% ",
+        "7 days ago": "1.4396",
+        "7 day change": "0.12900 8.96% ",
+        "30 days ago": "1.4396",
+        "30 day change": "0.12900 8.96% "
+    },
+    {
+        "Currency Pair": "BNT/BTC",
+        "Last Trade": "0.00021533",
+        "24 hours ago": "0.00020047",
+        "24 hour change": "0.000015 7.41% ",
+        "7 days ago": "0.00020047",
+        "7 day change": "0.000015 7.41% ",
+        "30 days ago": "0.00020047",
+        "30 day change": "0.000015 7.41% "
+    },
+    {
+        "Currency Pair": "BNT/ETH",
+        "Last Trade": "0.00653",
+        "24 hours ago": "0.005644",
+        "24 hour change": "0.00088600 15.70% ",
+        "7 days ago": "0.005644",
+        "7 day change": "0.00088600 15.70% ",
+        "30 days ago": "0.005644",
+        "30 day change": "0.00088600 15.70% "
+    },
+    {
+        "Currency Pair": "ABS/USD",
+        "Last Trade": "0.012",
+        "24 hours ago": "0.01",
+        "24 hour change": "0.0020000 20.00% ",
+        "7 days ago": "0.01",
+        "7 day change": "0.0020000 20.00% ",
+        "30 days ago": "0.01",
+        "30 day change": "0.0020000 20.00% "
+    },
+    {
+        "Currency Pair": "ABS/ETH",
+        "Last Trade": "0.00006",
+        "24 hours ago": "0.00002",
+        "24 hour change": "0.000040 198.66% ",
+        "7 days ago": "0.00002",
+        "7 day change": "0.000040 198.66% ",
+        "30 days ago": "0.00002",
+        "30 day change": "0.000040 198.66% "
+    },
+    {
+        "Currency Pair": "XRA/USD",
+        "Last Trade": "0.0482",
+        "24 hours ago": "0.04",
+        "24 hour change": "0.0082000 20.50% ",
+        "7 days ago": "0.04",
+        "7 day change": "0.0082000 20.50% ",
+        "30 days ago": "0.04",
+        "30 day change": "0.0082000 20.50% "
+    },
+    {
+        "Currency Pair": "XRA/ETH",
+        "Last Trade": "0.00013736",
+        "24 hours ago": "0.00013966",
+        "24 hour change": "-0.016502",
+        "7 days ago": "0.00013966",
+        "7 day change": "-0.016502",
+        "30 days ago": "0.00013966",
+        "30 day change": "-0.016502"
+    },
+    {
+        "Currency Pair": "MAN/USD",
+        "Last Trade": "0.23396",
+        "24 hours ago": "0.23312",
+        "24 hour change": "0.00084000 0.36% ",
+        "7 days ago": "0.23312",
+        "7 day change": "0.00084000 0.36% ",
+        "30 days ago": "0.23312",
+        "30 day change": "0.00084000 0.36% "
+    },
+    {
+        "Currency Pair": "MAN/ETH",
+        "Last Trade": "0.00099672",
+        "24 hours ago": "0.00099685",
+        "24 hour change": "-0.0001",
+        "7 days ago": "0.00099685",
+        "7 day change": "-0.0001",
+        "30 days ago": "0.00099685",
+        "30 day change": "-0.0001"
+    },
+    {
+        "Currency Pair": "BBN/USD",
+        "Last Trade": "0.011001",
+        "24 hours ago": "0.011004",
+        "24 hour change": "-0.000303",
+        "7 days ago": "0.011004",
+        "7 day change": "-0.000303",
+        "30 days ago": "0.011004",
+        "30 day change": "-0.000303"
+    },
+    {
+        "Currency Pair": "BBN/ETH",
+        "Last Trade": "0.00003304",
+        "24 hours ago": "0.000034",
+        "24 hour change": "-0.029401",
+        "7 days ago": "0.000034",
+        "7 day change": "-0.029401",
+        "30 days ago": "0.000034",
+        "30 day change": "-0.029401"
+    },
+    {
+        "Currency Pair": "NIO/USD",
+        "Last Trade": "0.023569",
+        "24 hours ago": "0.023569",
+        "24 hour change": "0.000000 0.00% ",
+        "7 days ago": "0.023569",
+        "7 day change": "0.000000 0.00% ",
+        "30 days ago": "0.023569",
+        "30 day change": "0.000000 0.00% "
+    },
+    {
+        "Currency Pair": "NIO/ETH",
+        "Last Trade": "0.000098",
+        "24 hours ago": "0.00007",
+        "24 hour change": "0.000028 39.86% ",
+        "7 days ago": "0.00007",
+        "7 day change": "0.000028 39.86% ",
+        "30 days ago": "0.00007",
+        "30 day change": "0.000028 39.86% "
+    },
+    {
+        "Currency Pair": "DGX/USD",
+        "Last Trade": "41.4",
+        "24 hours ago": "38.851",
+        "24 hour change": "2.5490 6.56% ",
+        "7 days ago": "38.851",
+        "7 day change": "2.5490 6.56% ",
+        "30 days ago": "38.851",
+        "30 day change": "2.5490 6.56% "
+    },
+    {
+        "Currency Pair": "DGX/ETH",
+        "Last Trade": "0.15018",
+        "24 hours ago": "0.15101",
+        "24 hour change": "-0.00633",
+        "7 days ago": "0.15101",
+        "7 day change": "-0.00633",
+        "30 days ago": "0.15101",
+        "30 day change": "-0.00633"
+    },
+    {
+        "Currency Pair": "VET/USD",
+        "Last Trade": "0.013401",
+        "24 hours ago": "0.013264",
+        "24 hour change": "0.00013700 1.03% ",
+        "7 days ago": "0.013264",
+        "7 day change": "0.00013700 1.03% ",
+        "30 days ago": "0.013264",
+        "30 day change": "0.00013700 1.03% "
+    },
+    {
+        "Currency Pair": "VET/BTC",
+        "Last Trade": "0.00000202",
+        "24 hours ago": "0.000002",
+        "24 hour change": "0.000000 0.50% ",
+        "7 days ago": "0.000002",
+        "7 day change": "0.000000 0.50% ",
+        "30 days ago": "0.000002",
+        "30 day change": "0.000000 0.50% "
+    },
+    {
+        "Currency Pair": "VET/ETH",
+        "Last Trade": "0.00005679",
+        "24 hours ago": "0.000056",
+        "24 hour change": "0.000001 1.21% ",
+        "7 days ago": "0.000056",
+        "7 day change": "0.000001 1.21% ",
+        "30 days ago": "0.000056",
+        "30 day change": "0.000001 1.21% "
+    },
+    {
+        "Currency Pair": "UTN/USD",
+        "Last Trade": "0.00495",
+        "24 hours ago": "0.0044031",
+        "24 hour change": "0.00054690 12.42% ",
+        "7 days ago": "0.0044031",
+        "7 day change": "0.00054690 12.42% ",
+        "30 days ago": "0.0044031",
+        "30 day change": "0.00054690 12.42% "
+    },
+    {
+        "Currency Pair": "UTN/ETH",
+        "Last Trade": "0.000022",
+        "24 hours ago": "0.000019",
+        "24 hour change": "0.000003 15.79% ",
+        "7 days ago": "0.000019",
+        "7 day change": "0.000003 15.79% ",
+        "30 days ago": "0.000019",
+        "30 day change": "0.000003 15.79% "
+    },
+    {
+        "Currency Pair": "TKN/USD",
+        "Last Trade": "0.56",
+        "24 hours ago": "0.45",
+        "24 hour change": "0.11000 24.44% ",
+        "7 days ago": "0.45",
+        "7 day change": "0.11000 24.44% ",
+        "30 days ago": "0.45",
+        "30 day change": "0.11000 24.44% "
+    },
+    {
+        "Currency Pair": "TKN/ETH",
+        "Last Trade": "0.001861",
+        "24 hours ago": "0.0015731",
+        "24 hour change": "0.00028790 18.30% ",
+        "7 days ago": "0.0015731",
+        "7 day change": "0.00028790 18.30% ",
+        "30 days ago": "0.0015731",
+        "30 day change": "0.00028790 18.30% "
+    },
+    {
+        "Currency Pair": "GOT/USD",
+        "Last Trade": "0.55",
+        "24 hours ago": "0.51",
+        "24 hour change": "0.040000 7.84% ",
+        "7 days ago": "0.51",
+        "7 day change": "0.040000 7.84% ",
+        "30 days ago": "0.51",
+        "30 day change": "0.040000 7.84% "
+    },
+    {
+        "Currency Pair": "GOT/EUR",
+        "Last Trade": "0.4673",
+        "24 hours ago": "0.43495",
+        "24 hour change": "0.032350 7.44% ",
+        "7 days ago": "0.43495",
+        "7 day change": "0.032350 7.44% ",
+        "30 days ago": "0.43495",
+        "30 day change": "0.032350 7.44% "
+    },
+    {
+        "Currency Pair": "GOT/ETH",
+        "Last Trade": "0.0027",
+        "24 hours ago": "0.00111",
+        "24 hour change": "0.0015900 143.24% ",
+        "7 days ago": "0.00111",
+        "7 day change": "0.0015900 143.24% ",
+        "30 days ago": "0.00111",
+        "30 day change": "0.0015900 143.24% "
+    },
+    {
+        "Currency Pair": "XTZ/USD",
+        "Last Trade": "1.6102",
+        "24 hours ago": "1.6151",
+        "24 hour change": "-0.0079",
+        "7 days ago": "1.6151",
+        "7 day change": "-0.0079",
+        "30 days ago": "1.6151",
+        "30 day change": "-0.0079"
+    },
+    {
+        "Currency Pair": "XTZ/BTC",
+        "Last Trade": "0.0002502",
+        "24 hours ago": "0.00024278",
+        "24 hour change": "0.000007 3.06% ",
+        "7 days ago": "0.00024278",
+        "7 day change": "0.000007 3.06% ",
+        "30 days ago": "0.00024278",
+        "30 day change": "0.000007 3.06% "
+    },
+    {
+        "Currency Pair": "CNN/USD",
+        "Last Trade": "0.00047",
+        "24 hours ago": "0.0004651",
+        "24 hour change": "0.000005 1.05% ",
+        "7 days ago": "0.0004651",
+        "7 day change": "0.000005 1.05% ",
+        "30 days ago": "0.0004651",
+        "30 day change": "0.000005 1.05% "
+    },
+    {
+        "Currency Pair": "CNN/ETH",
+        "Last Trade": "0.000002",
+        "24 hours ago": "0.000001",
+        "24 hour change": "0.000001 96.08% ",
+        "7 days ago": "0.000001",
+        "7 day change": "0.000001 96.08% ",
+        "30 days ago": "0.000001",
+        "30 day change": "0.000001 96.08% "
+    },
+    {
+        "Currency Pair": "BOX/USD",
+        "Last Trade": "0.016179",
+        "24 hours ago": "0.01595",
+        "24 hour change": "0.00022900 1.44% ",
+        "7 days ago": "0.01595",
+        "7 day change": "0.00022900 1.44% ",
+        "30 days ago": "0.01595",
+        "30 day change": "0.00022900 1.44% "
+    },
+    {
+        "Currency Pair": "BOX/ETH",
+        "Last Trade": "0.00006958",
+        "24 hours ago": "0.000069",
+        "24 hour change": "0.000000 0.59% ",
+        "7 days ago": "0.000069",
+        "7 day change": "0.000000 0.59% ",
+        "30 days ago": "0.000069",
+        "30 day change": "0.000000 0.59% "
+    }
+]
