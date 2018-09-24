@@ -29,7 +29,7 @@ This script can be run in situ or from any directory simply by copying the `conv
 * This script only works with `python 3x`
 * Script uses user inputs with instructions
 * Output files are generated in same directory
-* Use `ctrl` + `C` or `ctrl` + `D` etc. to exit
+* Use <kbd>Ctrl</kbd> + <kbd>C</kbd> or <kbd>control</kbd> + <kbd>C</kbd> etc. to exit
 
 Don't forget to save or rename the output file if you want to keep it.
 

@@ -67,4 +67,4 @@ while True:
         print("Check the file and try again ...")
         print("----------")
 
-# Use ctrl + C or ctrl + D etc. to exit
+# Use Ctrl + C or control + C etc. to exit
