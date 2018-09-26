@@ -20,13 +20,13 @@ Read results in `output.json` file.
 
 `$ python3 csvtojson.py`
 
-**Drag and Drop Version:**
+#### Drag and Drop Version:
 
 You'll find a standalone version in the `JsonCsv` folder.
 
 This script can be run in situ or from any directory simply by copying the `convert.py` file to that directory, i.e., your Desktop.
 
-* This script only works with `python 3x`
+* This version only works with `python 3x`
 * Script uses user inputs with instructions
 * Output files are generated in same directory
 * Use <kbd>Ctrl</kbd> + <kbd>C</kbd> or <kbd>control</kbd> + <kbd>C</kbd> etc. to exit
@@ -35,7 +35,7 @@ Don't forget to save or rename the output file if you want to keep it.
 
 **Limitations:**
 
-These will only convert single layer `json` arrays.
+All versions will only convert single layer `json` arrays.
 
 ***
 

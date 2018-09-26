@@ -5,15 +5,18 @@ import csv
 # https://github.com/Aquafortis/json-csv-converter
 # $ python3 jsontocsv.py
 """
-def json_to_csv():
-    jsonfile = open("input.json", "r")
-    data = json.load(jsonfile)
-    jsonfile.close()
-    csvfile = open("output.csv", "w")
-    poetize = csv.writer(csvfile)
-    poetize.writerow(data[0].keys())
-    for row in data:
-        poetize.writerow(row.values())
-    csvfile.close()
-    return poetize
-json_to_csv()
+class JsonCsv(object):
+
+    def json_to_csv(self):
+
+        jsonfile = open("input.json", "r")
+        data = json.load(jsonfile)
+        jsonfile.close()
+        csvfile = open("output.csv", "w")
+        poetize = csv.writer(csvfile)
+        poetize.writerow(data[0].keys())
+        for row in data:
+            poetize.writerow(row.values())
+        csvfile.close()
+
+JsonCsv().json_to_csv()
