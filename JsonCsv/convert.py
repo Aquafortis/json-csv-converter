@@ -1,7 +1,7 @@
 import json
 import csv
 """
-# Copyright (c) 2020 Aquafortis
+# Copyright (c) 2023 Aquafortis
 # https://github.com/Aquafortis/json-csv-converter
 # $ python3 convert.py
 """
